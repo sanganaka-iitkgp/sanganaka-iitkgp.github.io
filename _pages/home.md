@@ -6,8 +6,26 @@ sitemap: false
 permalink: /
 ---
 
-### About the Lab
+## About the Lab
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+### Sanskrit Computational Research Lab (Sanganaka)  
+**Tagline:** सा विद्या या विमुक्तये  
+*"That is knowledge which liberates."*
 
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+The Sanskrit Computational Research Lab (Sanganaka) at IIT Kharagpur aims to promote the frontiers of computational linguistics for Sanskrit, which is one of the oldest and structurally richest languages in the world. Led by Prof. Pawan Goyal, the lab discovers interdisciplinary research at the interface of artificial intelligence, classical linguistics, and Indian knowledge systems.
+
+Our goal is to bring Sanskrit to contemporary audiences by creating strong, scalable, and linguistically informed tools and models. Along the way, we hope to revive and protect classical Indian knowledge through the application of state-of-the-art AI methods and low-resource language modeling techniques.
+
+The core research areas in the lab are:
+
+- Sanskrit word segmentation (*Sandhi-viccheda*)
+- Morphological analysis and tagging
+- Syntactic dependency parsing
+- Prose-to-poetry and poetry-to-prose conversion (*Anvaya*)
+- Compound structure identification (*Samāsa*)
+- Machine translation and multilingual NLP for Sanskrit
+- Paninian grammatical frameworks integrated into contemporary NLP pipelines
+
+Our group has created cutting-edge materials like *SanskritShala*—a neural Sanskrit NLP suite—and *DepNeCTI*, a novel architecture for detecting nested compounds in ancient texts. These initiatives are part of the development of an extensive digital framework for Sanskrit to facilitate education, scholarship, and cross-linguistic discovery.
+
+The research of extracting knowledge from the lab connects traditional knowledge and contemporary computation, and it provides a model for technological scholarship in the Indic environment. By this work, we attempt to turn Sanskrit from an ancient language of the past into a computationally empowered resource of the future.
