@@ -18,6 +18,7 @@ Human benchmarking of explainability and linguistic correctness of interlingua a
 
 Linguistically faithful and interpretable translation system for the translation of text among multiple Indian languages.
 
-### Chief Investigator Details
- - Mr. Annarao Kulkarni
- - kulkarni@cdac.in
+### Principal Investigator Details
+ - Dr. Pawan Goyal
+ - pawang.iitk@gmail.com
+ - [Profile Page](https://cse.iitkgp.ac.in/~pawang/)
