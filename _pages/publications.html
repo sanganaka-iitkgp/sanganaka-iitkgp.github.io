@@ -8,14 +8,34 @@ permalink: /publications/
 
 <h1>{{ page.title }}</h1>
 
+{% comment %}
+Build an array of [year, publication] pairs for sorting.
+{% endcomment %}
+{% assign pubs_with_year = "" | split: "" %}
+{% for p in site.data.publication %}
+  {% if p.issued and p.issued["date-parts"] and p.issued["date-parts"][0] %}
+    {% assign year = p.issued["date-parts"][0][0] %}
+  {% else %}
+    {% assign year = 0 %}
+  {% endif %}
+  {% assign pair = year | append: "||" | append: forloop.index0 %}
+  {% assign pubs_with_year = pubs_with_year | push: pair %}
+{% endfor %}
+
+{% assign pubs_with_year = pubs_with_year | sort | reverse %}
+
 <div class="panel-group" id="accordion">
-  {% for publi in site.data.publication %}
+  {% for pair in pubs_with_year %}
+    {% assign parts = pair | split: "||" %}
+    {% assign idx = parts[1] | plus: 0 %}
+    {% assign publi = site.data.publication[idx] %}
+    {% assign year = parts[0] | plus: 0 %}
+
     <div class="panel panel-default">
       <div class="panel-heading">
-        <a data-toggle="collapse" data-parent="#accordion"
-           href="#collapse{{ forloop.index }}"
-           style="color: inherit;">
-          <!-- authors: given family, joined by commas -->
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}" style="color: inherit;">
+
+          <!-- authors -->
           {% assign author_names = "" | split: "" %}
           {% for author in publi.author %}
             {% assign full_name = author.given | append: " " | append: author.family %}
@@ -23,15 +43,15 @@ permalink: /publications/
           {% endfor %}
           {{ author_names | array_to_sentence_string }},
 
-          <!-- title with quotes -->
+          <!-- title -->
           "{{ publi.title }}",
 
           <!-- container-title -->
           <b>{{ publi["container-title"] }}</b>
 
-          <!-- issued date -->
-          {% if publi.issued and publi.issued["date-parts"] and publi.issued["date-parts"][0] %}
-            ({{ publi.issued["date-parts"][0][0] }})
+          <!-- year -->
+          {% if year != 0 %}
+            ({{ year }})
           {% endif %}
 
           <!-- DOI link -->
@@ -52,14 +72,12 @@ permalink: /publications/
             {% endif %}
           </p>
 
-          <!-- Link button: Use DOI if present, else fallback to Google Scholar link -->
           {% if publi.DOI %}
             <a class="btn btn-outline-primary" href="https://doi.org/{{ publi.DOI }}" role="button" target="_blank">Link</a>
           {% else %}
             <a class="btn btn-outline-primary" href="{{ publi.link }}" role="button" target="_blank">Link</a>
           {% endif %}
 
-          <!-- Citation count if available -->
           {% if publi["citation-count"] %}
             <p><small>Citations: {{ publi["citation-count"] }}</small></p>
           {% endif %}
