@@ -1,0 +1,7716 @@
+[
+  {
+    "title": "Hatexplain: A benchmark dataset for explainable hate speech detection",
+    "container-title": "Proceedings of the AAAI conference on artificial intelligence 35 (17), 14867 …, 2021",
+    "author": [
+      {
+        "family": "Mathew",
+        "given": "B"
+      },
+      {
+        "family": "Saha",
+        "given": "P"
+      },
+      {
+        "family": "Yimam",
+        "given": "SM"
+      },
+      {
+        "family": "Biemann",
+        "given": "C"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:a3BOlSfXSfwC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Spread of hate speech in online social media",
+    "container-title": "Proceedings of the 10th ACM conference on web science, 173-182, 2019",
+    "author": [
+      {
+        "family": "Mathew",
+        "given": "B"
+      },
+      {
+        "family": "Dutt",
+        "given": "R"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:vDijr-p_gm4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Automating data extraction in systematic reviews: a systematic review",
+    "container-title": "Systematic reviews 4 (1), 78, 2015",
+    "author": [
+      {
+        "family": "Jonnalagadda",
+        "given": "SR"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Huffman",
+        "given": "MD"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:08ZZubdj9fEC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Thou shalt not hate: Countering online hate speech",
+    "container-title": "Proceedings of the international AAAI conference on web and social media 13 …, 2019",
+    "author": [
+      {
+        "family": "Mathew",
+        "given": "B"
+      },
+      {
+        "family": "Saha",
+        "given": "P"
+      },
+      {
+        "family": "Tharad",
+        "given": "H"
+      },
+      {
+        "family": "Rajgaria",
+        "given": "S"
+      },
+      {
+        "family": "Singhania",
+        "given": "P"
+      },
+      {
+        "family": "Maity",
+        "given": "SK"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:yB1At4FlUx8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Extracting situational information from microblogs during disaster events: a classification-summarization approach",
+    "container-title": "Proceedings of the 24th ACM international on conference on information and …, 2015",
+    "author": [
+      {
+        "family": "Rudra",
+        "given": "K"
+      },
+      {
+        "family": "Ghosh",
+        "given": "S"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ghosh",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:B3FOqHPlNUQC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Hate begets hate: A temporal study of hate speech",
+    "container-title": "Proceedings of the ACM on Human-Computer Interaction 4 (CSCW2), 1-24, 2020",
+    "author": [
+      {
+        "family": "Mathew",
+        "given": "B"
+      },
+      {
+        "family": "Illendula",
+        "given": "A"
+      },
+      {
+        "family": "Saha",
+        "given": "P"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:OcBU2YAGkTUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "That's sick dude!: Automatic identification of word sense change across different timescales",
+    "container-title": "ACL 2014, 2014",
+    "author": [
+      {
+        "family": "Mitra",
+        "given": "S"
+      },
+      {
+        "family": "Mitra",
+        "given": "R"
+      },
+      {
+        "family": "Riedl",
+        "given": "M"
+      },
+      {
+        "family": "Biemann",
+        "given": "C"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:Se3iqnhoufwC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Towards a Stratified Learning Approach to Predict Future Citation Counts",
+    "container-title": "Digital Libraries, 2014",
+    "author": [
+      {
+        "family": "Chakraborty",
+        "given": "T"
+      },
+      {
+        "family": "Kumar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:UebtZRa9Y70C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Extracting and summarizing situational information from the twitter social media during disasters",
+    "container-title": "ACM Transactions on the Web (TWEB) 12 (3), 1-35, 2018",
+    "author": [
+      {
+        "family": "Rudra",
+        "given": "K"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ghosh",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:nrtMV_XWKgEC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Interaction dynamics between hate and counter users on Twitter",
+    "container-title": "Proceedings of the 7th ACM IKDD CoDS and 25th COMAD, 116-124, 2020",
+    "author": [
+      {
+        "family": "Mathew",
+        "given": "B"
+      },
+      {
+        "family": "Kumar",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:PoWvk5oyLR8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Legal case document summarization: Extractive and abstractive methods and their evaluation",
+    "container-title": "arXiv preprint arXiv:2210.07544, 2022",
+    "author": [
+      {
+        "family": "Shukla",
+        "given": "A"
+      },
+      {
+        "family": "Bhattacharya",
+        "given": "P"
+      },
+      {
+        "family": "Poddar",
+        "given": "S"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "R"
+      },
+      {
+        "family": "Ghosh",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:L1USKYWJimsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Pre-trained language models for the legal domain: a case study on Indian law",
+    "container-title": "Proceedings of the nineteenth international conference on artificial …, 2023",
+    "author": [
+      {
+        "family": "Paul",
+        "given": "S"
+      },
+      {
+        "family": "Mandal",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ghosh",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:U_HPUtbDl20C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Summarizing situational tweets in crisis scenario",
+    "container-title": "Proceedings of the 27th ACM conference on hypertext and social media, 137-147, 2016",
+    "author": [
+      {
+        "family": "Rudra",
+        "given": "K"
+      },
+      {
+        "family": "Banerjee",
+        "given": "S"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Imran",
+        "given": "M"
+      },
+      {
+        "family": "Mitra",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:q3oQSFYPqjQC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Identifying sub-events and summarizing disaster-related information from microblogs",
+    "container-title": "The 41st international ACM SIGIR conference on research & development in …, 2018",
+    "author": [
+      {
+        "family": "Rudra",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Mitra",
+        "given": "P"
+      },
+      {
+        "family": "Imran",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:9Nmd_mFXekcC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "An automatic approach to identify word sense changes in text media across timescales",
+    "container-title": "Natural Language Engineering 21 (5), 773-798, 2015",
+    "author": [
+      {
+        "family": "Mitra",
+        "given": "S"
+      },
+      {
+        "family": "Mitra",
+        "given": "R"
+      },
+      {
+        "family": "Maity",
+        "given": "SK"
+      },
+      {
+        "family": "Riedl",
+        "given": "M"
+      },
+      {
+        "family": "Biemann",
+        "given": "C"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:Tiz5es2fbqcC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "PASTE: A tagging-free decoding framework using pointer networks for aspect sentiment triplet extraction",
+    "container-title": "arXiv preprint arXiv:2110.04794, 2021",
+    "author": [
+      {
+        "family": "Mukherjee",
+        "given": "R"
+      },
+      {
+        "family": "Nayak",
+        "given": "T"
+      },
+      {
+        "family": "Butala",
+        "given": "Y"
+      },
+      {
+        "family": "Bhattacharya",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:QD3KBmkZPeQC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Aspect-based sentiment analysis of scientific reviews",
+    "container-title": "Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020 …, 2020",
+    "author": [
+      {
+        "family": "Chakraborty",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:0N-VGjzr574C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A context-based word indexing model for document summarization",
+    "container-title": "IEEE Transactions on Knowledge and Data Engineering 25 (8), 1693-1705, 2012",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "McGinnity",
+        "given": "TM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:qjMakFHDy7sC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Summarizing situational tweets in crisis scenarios: An extractive-abstractive approach",
+    "container-title": "IEEE transactions on computational social systems 6 (5), 981-993, 2019",
+    "author": [
+      {
+        "family": "Rudra",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Imran",
+        "given": "M"
+      },
+      {
+        "family": "Mitra",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:kuK5TVdYjLIC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Deep neural approaches to relation triplets extraction: A comprehensive survey",
+    "container-title": "Cognitive computation 13 (5), 1215-1232, 2021",
+    "author": [
+      {
+        "family": "Nayak",
+        "given": "T"
+      },
+      {
+        "family": "Majumder",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Poria",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:gVv57TyPmFsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A distributed platform for Sanskrit processing",
+    "container-title": "Proceedings of COLING 2012, 1011-1028, 2012",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Huet",
+        "given": "G"
+      },
+      {
+        "family": "Kulkarni",
+        "given": "A"
+      },
+      {
+        "family": "Scharf",
+        "given": "P"
+      },
+      {
+        "family": "Bunker",
+        "given": "R"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:tOudhMTPpwUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Lesicin: A heterogeneous graph-based approach for automatic legal statute identification from indian legal documents",
+    "container-title": "Proceedings of the AAAI conference on artificial intelligence 36 (10), 11139 …, 2022",
+    "author": [
+      {
+        "family": "Paul",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ghosh",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:lgwcVrK6X84C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Hateminers: Detecting hate speech against women",
+    "container-title": "arXiv preprint arXiv:1812.06700, 2018",
+    "author": [
+      {
+        "family": "Saha",
+        "given": "P"
+      },
+      {
+        "family": "Mathew",
+        "given": "B"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:AvfA0Oy_GE0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Opinion conflicts: An effective route to detect incivility in Twitter",
+    "container-title": "Proceedings of the ACM on Human-Computer Interaction 2 (CSCW), 1-27, 2018",
+    "author": [
+      {
+        "family": "Maity",
+        "given": "SK"
+      },
+      {
+        "family": "Chakraborty",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:0KyAp5RtaNEC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Medical entity linking using triplet network",
+    "container-title": "arXiv preprint arXiv:2012.11164, 2020",
+    "author": [
+      {
+        "family": "Mondal",
+        "given": "I"
+      },
+      {
+        "family": "Purkayastha",
+        "given": "S"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Pillai",
+        "given": "J"
+      },
+      {
+        "family": "Bhattacharyya",
+        "given": "A"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:ILKRHgRFtOwC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Ectsum: A new benchmark dataset for bullet point summarization of long earnings call transcripts",
+    "container-title": "arXiv preprint arXiv:2210.12467, 2022",
+    "author": [
+      {
+        "family": "Mukherjee",
+        "given": "R"
+      },
+      {
+        "family": "Bohra",
+        "given": "A"
+      },
+      {
+        "family": "Banerjee",
+        "given": "A"
+      },
+      {
+        "family": "Sharma",
+        "given": "S"
+      },
+      {
+        "family": "Hegde",
+        "given": "M"
+      },
+      {
+        "family": "Shaikh",
+        "given": "A"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:prdVHNxh-e8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "On the categorization of scientific citation profiles in computer science",
+    "container-title": "Communications of the ACM 58 (9), 82-90, 2015",
+    "author": [
+      {
+        "family": "Chakraborty",
+        "given": "T"
+      },
+      {
+        "family": "Kumar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:tS2w5q8j5-wC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Detection of sockpuppets in social media",
+    "container-title": "Companion of the 2017 ACM conference on computer supported cooperative work …, 2017",
+    "author": [
+      {
+        "family": "Maity",
+        "given": "SK"
+      },
+      {
+        "family": "Chakraborty",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:WqliGbK-hY8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Design and analysis of a lean interface for sanskrit corpus annotation",
+    "container-title": "Journal of Language Modelling 4 (2), 145–182-145–182, 2016",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Huet",
+        "given": "G"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:Y5dfb0dijaUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "OCR++: a robust framework for information extraction from scholarly articles",
+    "container-title": "arXiv preprint arXiv:1609.06423, 2016",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Barua",
+        "given": "B"
+      },
+      {
+        "family": "Palod",
+        "given": "P"
+      },
+      {
+        "family": "Garg",
+        "given": "M"
+      },
+      {
+        "family": "Satapathy",
+        "given": "S"
+      },
+      {
+        "family": "Bushi",
+        "given": "S"
+      },
+      {
+        "family": "Ayush",
+        "given": "K"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:uJ-U7cs_P_0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "FinRED: A dataset for relation extraction in financial domain",
+    "container-title": "Companion Proceedings of the Web Conference 2022, 595-597, 2022",
+    "author": [
+      {
+        "family": "Sharma",
+        "given": "S"
+      },
+      {
+        "family": "Nayak",
+        "given": "T"
+      },
+      {
+        "family": "Bose",
+        "given": "A"
+      },
+      {
+        "family": "Meena",
+        "given": "AK"
+      },
+      {
+        "family": "Dasgupta",
+        "given": "K"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:cK4Rrx0J3m0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Hate speech in online social media",
+    "container-title": "ACM SIGWEB Newsletter 2020 (Autumn), 1-8, 2020",
+    "author": [
+      {
+        "family": "Das",
+        "given": "M"
+      },
+      {
+        "family": "Mathew",
+        "given": "B"
+      },
+      {
+        "family": "Saha",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:yqoGN6RLRZoC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Drug-drug interactions prediction based on drug embedding and graph auto-encoder",
+    "container-title": "2019 IEEE 19th International Conference on Bioinformatics and Bioengineering …, 2019",
+    "author": [
+      {
+        "family": "Purkayastha",
+        "given": "S"
+      },
+      {
+        "family": "Mondal",
+        "given": "I"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Pillai",
+        "given": "JK"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:-FonjvnnhkoC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Read what you need: Controllable aspect-based opinion summarization of tourist reviews",
+    "container-title": "Proceedings of the 43rd international ACM SIGIR conference on research and …, 2020",
+    "author": [
+      {
+        "family": "Mukherjee",
+        "given": "R"
+      },
+      {
+        "family": "Peruri",
+        "given": "HC"
+      },
+      {
+        "family": "Vishnu",
+        "given": "U"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Bhattacharya",
+        "given": "S"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:FPJr55Dyh1AC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "FeRoSA: A Faceted Recommendation System for Scientific Articles",
+    "container-title": "Pacific-Asia Conference on Knowledge Discovery and Data Mining, 528-541, 2016",
+    "author": [
+      {
+        "family": "Chakraborty",
+        "given": "T"
+      },
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:LPZeul_q3PIC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Analysis of Sanskrit text: Parsing and semantic relations",
+    "container-title": "International Sanskrit Computational Linguistics Symposium, 200-218, 2007",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Arora",
+        "given": "V"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:2osOgNQ5qMEC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Hatemonitors: Language agnostic abuse detection in social media",
+    "container-title": "arXiv preprint arXiv:1909.12642, 2019",
+    "author": [
+      {
+        "family": "Saha",
+        "given": "P"
+      },
+      {
+        "family": "Mathew",
+        "given": "B"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:LI9QrySNdTsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Incorporating domain knowledge into medical NLI using knowledge graphs",
+    "container-title": "arXiv preprint arXiv:1909.00160, 2019",
+    "author": [
+      {
+        "family": "Sharma",
+        "given": "S"
+      },
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Jana",
+        "given": "A"
+      },
+      {
+        "family": "Santosh",
+        "given": "T"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:TIZ-Mc8IlK0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Completeness analysis of a Sanskrit reader",
+    "container-title": "Proceedings, 5th International Symposium on Sanskrit Computational …, 2013",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Huet",
+        "given": "G"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:u-x6o8ySG0sC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A graph-based framework for structured prediction tasks in Sanskrit",
+    "container-title": "Computational Linguistics 46 (4), 785-845, 2021",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Gupta",
+        "given": "A"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:yMeIxYmEMEAC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Hierarchical transformer for task oriented dialog systems",
+    "container-title": "arXiv preprint arXiv:2011.08067, 2020",
+    "author": [
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Anusha",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:HeT0ZceujKMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "DeepTagRec: A content-cum-user based tag recommendation framework for stack overflow",
+    "container-title": "European Conference on Information Retrieval, 125-131, 2019",
+    "author": [
+      {
+        "family": "Maity",
+        "given": "SK"
+      },
+      {
+        "family": "Panigrahi",
+        "given": "A"
+      },
+      {
+        "family": "Ghosh",
+        "given": "S"
+      },
+      {
+        "family": "Banerjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:EYYDruWGBe4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "The role of citation context in predicting long-term citation profiles: An experimental study based on a massive bibliographic text dataset",
+    "container-title": "Proceedings of the 24th ACM international on conference on information and …, 2015",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Patidar",
+        "given": "V"
+      },
+      {
+        "family": "Kumar",
+        "given": "S"
+      },
+      {
+        "family": "Chakraborty",
+        "given": "T"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:vRqMK49ujn8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Attribute value generation from product title using language models",
+    "container-title": "Proceedings of The 4th Workshop on e-Commerce and NLP, 13-17, 2021",
+    "author": [
+      {
+        "family": "Roy",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Pandey",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:4X0JR2_MtJMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Automatic speech recognition in Sanskrit: A new speech corpus and modelling insights",
+    "container-title": "arXiv preprint arXiv:2106.05852, 2021",
+    "author": [
+      {
+        "family": "Adiga",
+        "given": "D"
+      },
+      {
+        "family": "Kumar",
+        "given": "R"
+      },
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Jyothi",
+        "given": "P"
+      },
+      {
+        "family": "Ramakrishnan",
+        "given": "G"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:vDZJ-YLwNdEC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A dataset for Sanskrit word segmentation",
+    "container-title": "Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for …, 2017",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:eq2jaN3J8jMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Reproducibility, replicability and beyond: Assessing production readiness of aspect based sentiment analysis in the wild",
+    "container-title": "European Conference on Information Retrieval, 92-106, 2021",
+    "author": [
+      {
+        "family": "Mukherjee",
+        "given": "R"
+      },
+      {
+        "family": "Shetty",
+        "given": "S"
+      },
+      {
+        "family": "Chattopadhyay",
+        "given": "S"
+      },
+      {
+        "family": "Maji",
+        "given": "S"
+      },
+      {
+        "family": "Datta",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:Aul-kAQHnToC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Misleading metadata detection on YouTube",
+    "container-title": "European conference on information retrieval, 140-147, 2019",
+    "author": [
+      {
+        "family": "Palod",
+        "given": "P"
+      },
+      {
+        "family": "Patwari",
+        "given": "A"
+      },
+      {
+        "family": "Bahety",
+        "given": "S"
+      },
+      {
+        "family": "Bagchi",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:BwyfMAYsbu0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Building a word segmenter for Sanskrit overnight",
+    "container-title": "arXiv preprint arXiv:1802.06185, 2018",
+    "author": [
+      {
+        "family": "Reddy",
+        "given": "V"
+      },
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Sharma",
+        "given": "VD"
+      },
+      {
+        "family": "Gupta",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:fEOibwPWpKIC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Crysmmnet: multimodal representation for crystal property prediction",
+    "container-title": "Uncertainty in Artificial Intelligence, 507-517, 2023",
+    "author": [
+      {
+        "family": "Das",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Lee",
+        "given": "SC"
+      },
+      {
+        "family": "Bhattacharjee",
+        "given": "S"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:-jrNzM816MMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Compound type identification in sanskrit: what roles do the corpus and grammar play?",
+    "container-title": "Proceedings of the 6th Workshop on South and Southeast Asian Natural …, 2016",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "Sharma",
+        "given": "S"
+      },
+      {
+        "family": "Kumar",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:JoZmwDi-zQgC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Word segmentation in sanskrit using path constrained random walks",
+    "container-title": "Proceedings of COLING 2016, the 26th international conference on …, 2016",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "Bandaru",
+        "given": "SP"
+      },
+      {
+        "family": "Faldu",
+        "given": "B"
+      },
+      {
+        "family": "Singh",
+        "given": "Y"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:9vf0nzSNQJEC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "CONTRASTE: Supervised contrastive pre-training with aspect-based prompts for aspect sentiment triplet extraction",
+    "container-title": "arXiv preprint arXiv:2310.15577, 2023",
+    "author": [
+      {
+        "family": "Mukherjee",
+        "given": "R"
+      },
+      {
+        "family": "Kannen",
+        "given": "N"
+      },
+      {
+        "family": "Pandey",
+        "given": "SK"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:RoXSNcbkSzsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Deep dive into anonymity: Large scale analysis of quora questions",
+    "container-title": "International Conference on Social Informatics, 35-49, 2019",
+    "author": [
+      {
+        "family": "Mathew",
+        "given": "B"
+      },
+      {
+        "family": "Dutt",
+        "given": "R"
+      },
+      {
+        "family": "Maity",
+        "given": "SK"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:zLWjf1WUPmwC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Using communities of words derived from multilingual word vectors for cross-language information retrieval in Indian languages",
+    "container-title": "ACM Transactions on Asian and Low-Resource Language Information Processing …, 2018",
+    "author": [
+      {
+        "family": "Bhattacharya",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:Z5m8FVwuT1cC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Extracting entities of interest from comparative product reviews",
+    "container-title": "Proceedings of the 2017 ACM on Conference on Information and Knowledge …, 2017",
+    "author": [
+      {
+        "family": "Arora",
+        "given": "J"
+      },
+      {
+        "family": "Agrawal",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Pathak",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:ZfRJV9d4-WMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Crysgnn: Distilling pre-trained knowledge to enhance property prediction for crystalline materials",
+    "container-title": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (6), 7323-7331, 2023",
+    "author": [
+      {
+        "family": "Das",
+        "given": "K"
+      },
+      {
+        "family": "Samanta",
+        "given": "B"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Lee",
+        "given": "SC"
+      },
+      {
+        "family": "Bhattacharjee",
+        "given": "S"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:1yWc8FF-_SYC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Evaluating neural morphological taggers for Sanskrit",
+    "container-title": "arXiv preprint arXiv:2005.10893, 2020",
+    "author": [
+      {
+        "family": "Gupta",
+        "given": "A"
+      },
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Hellwig",
+        "given": "O"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:XoXfffV-tXoC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Free as in free word order: An energy based model for word segmentation and morphological tagging in Sanskrit",
+    "container-title": "arXiv preprint arXiv:1809.01446, 2018",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Bandaru",
+        "given": "SP"
+      },
+      {
+        "family": "Sahu",
+        "given": "G"
+      },
+      {
+        "family": "Sharma",
+        "given": "VD"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:uc_IGeMz5qoC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Understanding the impact of early citers on long-term scientific impact",
+    "container-title": "2017 ACM/IEEE joint conference on digital libraries (JCDL), 1-10, 2017",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Jaiswal",
+        "given": "A"
+      },
+      {
+        "family": "Shree",
+        "given": "P"
+      },
+      {
+        "family": "Pal",
+        "given": "A"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:PR6Y55bgFSsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Translation divergence in English-Sanskrit-Hindi language pairs",
+    "container-title": "International Sanskrit Computational Linguistics Symposium, 134-143, 2009",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Sinha",
+        "given": "RMK"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:d1gkVwhDpl0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "CrysXPP: An explainable property predictor for crystalline materials",
+    "container-title": "npj Computational Materials 8 (1), 43, 2022",
+    "author": [
+      {
+        "family": "Das",
+        "given": "K"
+      },
+      {
+        "family": "Samanta",
+        "given": "B"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Lee",
+        "given": "SC"
+      },
+      {
+        "family": "Bhattacharjee",
+        "given": "S"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:5icHVeHT4IsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Question answering over electronic devices: A new benchmark dataset and a multi-task learning based QA framework",
+    "container-title": "arXiv preprint arXiv:2109.05897, 2021",
+    "author": [
+      {
+        "family": "Nandy",
+        "given": "A"
+      },
+      {
+        "family": "Sharma",
+        "given": "S"
+      },
+      {
+        "family": "Maddhashiya",
+        "given": "S"
+      },
+      {
+        "family": "Sachdeva",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:PVgj2kMGcgYC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "You too brutus! trapping hateful users in social media: Challenges, solutions & insights",
+    "container-title": "Proceedings of the 32nd ACM Conference on Hypertext and Social Media, 79-89, 2021",
+    "author": [
+      {
+        "family": "Das",
+        "given": "M"
+      },
+      {
+        "family": "Saha",
+        "given": "P"
+      },
+      {
+        "family": "Dutt",
+        "given": "R"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Mathew",
+        "given": "B"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:0CzhzZyukY4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Poetry to prose conversion in Sanskrit as a linearisation task: A case for low-resource languages",
+    "container-title": "Proceedings of the 57th Annual Meeting of the Association for Computational …, 2019",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Sharma",
+        "given": "VD"
+      },
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Chakraborty",
+        "given": "A"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:KUbvn5osdkgC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Upcycle your OCR: Reusing OCRs for post-OCR text correction in Romanised Sanskrit",
+    "container-title": "arXiv preprint arXiv:1809.02147, 2018",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Majumder",
+        "given": "BP"
+      },
+      {
+        "family": "Bhat",
+        "given": "RS"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:EkHepimYqZsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Summarizing situational and topical information during crises",
+    "container-title": "arXiv preprint arXiv:1610.01561, 2016",
+    "author": [
+      {
+        "family": "Rudra",
+        "given": "K"
+      },
+      {
+        "family": "Banerjee",
+        "given": "S"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Imran",
+        "given": "M"
+      },
+      {
+        "family": "Mitra",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:eMMeJKvmdy0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "On the formation of circles in co-authorship networks",
+    "container-title": "Proceedings of the 21th ACM SIGKDD International Conference on Knowledge …, 2015",
+    "author": [
+      {
+        "family": "Chakraborty",
+        "given": "T"
+      },
+      {
+        "family": "Patranabis",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:l7t_Zn2s7bgC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "MatScIE: An automated tool for the generation of databases of methods and parameters used in the computational materials science literature",
+    "container-title": "Computational Materials Science 192, 110325, 2021",
+    "author": [
+      {
+        "family": "Guha",
+        "given": "S"
+      },
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Agrawal",
+        "given": "J"
+      },
+      {
+        "family": "Ram",
+        "given": "S"
+      },
+      {
+        "family": "Ghui",
+        "given": "S"
+      },
+      {
+        "family": "Lee",
+        "given": "SC"
+      },
+      {
+        "family": "Bhattacharjee",
+        "given": "S"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:ODE9OILHJdcC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Can network embedding of distributional thesaurus be combined with word vectors for better representation?",
+    "container-title": "arXiv preprint arXiv:1802.06196, 2018",
+    "author": [
+      {
+        "family": "Jana",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:j8SEvjWlNXcC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Design of a lean interface for Sanskrit corpus annotation",
+    "container-title": "Proceedings of ICON, 177-186, 2013",
+    "author": [
+      {
+        "family": "Huet",
+        "given": "G"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:YsMSGLbcyi4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Application of Bayesian framework in natural language understanding",
+    "container-title": "IETE Technical Review 25 (5), 251-269, 2008",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "McGinnity",
+        "given": "TM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:9yKSN-GCB0IC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Automatic charge identification from facts: A few sentence-level charge annotations is all you need",
+    "container-title": "Proceedings of the 28th International Conference on Computational …, 2020",
+    "author": [
+      {
+        "family": "Paul",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ghosh",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:LhH-TYMQEocC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Using word embeddings for query translation for hindi to english cross language information retrieval",
+    "container-title": "Computación y Sistemas 20 (3), 435-447, 2016",
+    "author": [
+      {
+        "family": "Bhattacharya",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:mvPsJ3kp5DgC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Meter identification of sanskrit verse",
+    "container-title": "The Sanskrit Library, USA, 2013",
+    "author": [
+      {
+        "family": "Melnad",
+        "given": "KS"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Scharf",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:p2g8aNsByqUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Legal IR and NLP: the history, challenges, and state-of-the-art",
+    "container-title": "European Conference on Information Retrieval, 331-340, 2023",
+    "author": [
+      {
+        "family": "Ganguly",
+        "given": "D"
+      },
+      {
+        "family": "Conrad",
+        "given": "JG"
+      },
+      {
+        "family": "Ghosh",
+        "given": "K"
+      },
+      {
+        "family": "Ghosh",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Bhattacharya",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:q-HalDI95KYC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Cl scholar: The acl anthology knowledge graph miner",
+    "container-title": "arXiv preprint arXiv:1804.05514, 2018",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Dogga",
+        "given": "P"
+      },
+      {
+        "family": "Patro",
+        "given": "S"
+      },
+      {
+        "family": "Barnwal",
+        "given": "D"
+      },
+      {
+        "family": "Dutt",
+        "given": "R"
+      },
+      {
+        "family": "Haldar",
+        "given": "R"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:VLnqNzywnoUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "IL-TUR: Benchmark for Indian legal text understanding and reasoning",
+    "container-title": "arXiv preprint arXiv:2407.05399, 2024",
+    "author": [
+      {
+        "family": "Joshi",
+        "given": "A"
+      },
+      {
+        "family": "Paul",
+        "given": "S"
+      },
+      {
+        "family": "Sharma",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ghosh",
+        "given": "S"
+      },
+      {
+        "family": "Modi",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:kzcSZmkxUKAC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Financial numeric extreme labelling: A dataset and benchmarking",
+    "container-title": "Findings of the Association for Computational Linguistics: ACL 2023, 3550-3561, 2023",
+    "author": [
+      {
+        "family": "Sharma",
+        "given": "S"
+      },
+      {
+        "family": "Khatuya",
+        "given": "S"
+      },
+      {
+        "family": "Hegde",
+        "given": "M"
+      },
+      {
+        "family": "Shaikh",
+        "given": "A"
+      },
+      {
+        "family": "Dasgupta",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:PyEswDtIyv0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Keep it surprisingly simple: A simple first order graph based parsing model for joint morphosyntactic parsing in Sanskrit",
+    "container-title": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language …, 2020",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Gupta",
+        "given": "A"
+      },
+      {
+        "family": "Garasangi",
+        "given": "D"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:fFSKOagxvKUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Matscire: Leveraging pointer networks to automate entity and relation extraction for material science knowledge-base construction",
+    "container-title": "Computational Materials Science 233, 112659, 2024",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Ghosh",
+        "given": "A"
+      },
+      {
+        "family": "Chaitanya",
+        "given": "GS"
+      },
+      {
+        "family": "Ghui",
+        "given": "S"
+      },
+      {
+        "family": "Nayak",
+        "given": "T"
+      },
+      {
+        "family": "Lee",
+        "given": "SC"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:O0nohqN1r9EC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Intent identification and entity extraction for healthcare queries in indic languages",
+    "container-title": "arXiv preprint arXiv:2302.09685, 2023",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Mondal",
+        "given": "I"
+      },
+      {
+        "family": "Ray",
+        "given": "S"
+      },
+      {
+        "family": "Raghav",
+        "given": "R"
+      },
+      {
+        "family": "Chaitanya",
+        "given": "GS"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:DBa1UEJaJKAC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "TransLIST: A transformer-based linguistically informed Sanskrit tokenizer",
+    "container-title": "arXiv preprint arXiv:2210.11753, 2022",
+    "author": [
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Singha",
+        "given": "R"
+      },
+      {
+        "family": "Rao",
+        "given": "N"
+      },
+      {
+        "family": "Samanta",
+        "given": "S"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:XUvXOeBm_78C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Revisiting the role of feature engineering for compound type identification in Sanskrit",
+    "container-title": "Proceedings of the 6th international Sanskrit computational linguistics …, 2019",
+    "author": [
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:k8Z6L05lTy4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A stratified learning approach for predicting the popularity of Twitter idioms",
+    "container-title": "Proceedings of the International AAAI Conference on Web and Social Media 9 …, 2015",
+    "author": [
+      {
+        "family": "Maity",
+        "given": "S"
+      },
+      {
+        "family": "Gupta",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:K3LRdlH-MEoC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A Novel Two-stage Framework for Extracting Opinionated Sentences from News Articles",
+    "container-title": "Textgraphs-9, 25-33, 2014",
+    "author": [
+      {
+        "family": "Rajkumar",
+        "given": "P"
+      },
+      {
+        "family": "Desai",
+        "given": "S"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:3fE2CSJIrl8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Computer Simulation of Aṣṭādhyāyī: Some Insights",
+    "container-title": "International Sanskrit Computational Linguistics Symposium, 139-161, 2007",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Kulkarni",
+        "given": "A"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:UeHWp8X0CEIC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A generative approach for financial causality extraction",
+    "container-title": "Companion Proceedings of the Web Conference 2022, 576-578, 2022",
+    "author": [
+      {
+        "family": "Nayak",
+        "given": "T"
+      },
+      {
+        "family": "Sharma",
+        "given": "S"
+      },
+      {
+        "family": "Butala",
+        "given": "Y"
+      },
+      {
+        "family": "Dasgupta",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:U4n9YNQMCAIC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Mtlts: A multi-task framework to obtain trustworthy summaries from crisis-related microblogs",
+    "container-title": "Proceedings of the Fifteenth ACM International Conference on Web Search and …, 2022",
+    "author": [
+      {
+        "family": "Mukherjee",
+        "given": "R"
+      },
+      {
+        "family": "Vishnu",
+        "given": "U"
+      },
+      {
+        "family": "Peruri",
+        "given": "HC"
+      },
+      {
+        "family": "Bhattacharya",
+        "given": "S"
+      },
+      {
+        "family": "Rudra",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:otzGkya1bYkC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A little pretraining goes a long way: A case study on dependency parsing task for low-resource morphologically rich languages",
+    "container-title": "arXiv preprint arXiv:2102.06551, 2021",
+    "author": [
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Gupta",
+        "given": "A"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:fbc8zXXH2BUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "AppTechMiner: mining applications and techniques from scientific articles",
+    "container-title": "Proceedings of the 6th International Workshop on Mining Scientific …, 2017",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Dan",
+        "given": "S"
+      },
+      {
+        "family": "Agarwal",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:7T2F9Uy0os0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A generic opinion-fact classifier with application in understanding opinionatedness in various news section",
+    "container-title": "Proceedings of the 26th International Conference on World Wide Web Companion …, 2017",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Maheshwari",
+        "given": "S"
+      },
+      {
+        "family": "C",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:ZuybSZzF8UAC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Query translation for cross-language information retrieval using multilingual word clusters",
+    "container-title": "Proceedings of the 6th Workshop on South and Southeast Asian Natural …, 2016",
+    "author": [
+      {
+        "family": "Bhattacharya",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:PELIpwtuRlgC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Distinctive features of poetic syntax preliminary results",
+    "container-title": "Sanskrit syntax, 305-324, 2015",
+    "author": [
+      {
+        "family": "Scharf",
+        "given": "P"
+      },
+      {
+        "family": "Ajotikar",
+        "given": "A"
+      },
+      {
+        "family": "Savardekar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:XiSMed-E-HIC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A novel neighborhood based document smoothing model for information retrieval",
+    "container-title": "Information retrieval 16 (3), 391-425, 2013",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "McGinnity",
+        "given": "TM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:Y0pCki6q_DkC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A study towards design of an English to Sanskrit machine translation system",
+    "container-title": "International Sanskrit Computational Linguistics Symposium, 287-305, 2007",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Sinha",
+        "given": "RMK"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:u5HHmVD_uO8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Evaluating neural word embeddings for Sanskrit",
+    "container-title": "arXiv preprint arXiv:2104.00270, 2021",
+    "author": [
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Adideva",
+        "given": "O"
+      },
+      {
+        "family": "Komal",
+        "given": "D"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:nVrZBo8bIpAC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Automated early leaderboard generation from comparative tables",
+    "container-title": "European Conference on Information Retrieval, 244-257, 2019",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Sarkar",
+        "given": "R"
+      },
+      {
+        "family": "Vyas",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Chakrabarti",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:evX43VCCuoAC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Relay-linking models for prominence and obsolescence in evolving networks",
+    "container-title": "Proceedings of the 23rd ACM SIGKDD international conference on knowledge …, 2017",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Sarkar",
+        "given": "R"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Chakrabarti",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:AXPGKjj_ei8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A graphical framework to detect and categorize diverse opinions from online news",
+    "container-title": "Proceedings of the Workshop on Computational Modeling of People’s Opinions …, 2016",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&pagesize=100&citation_for_view=F14FHsIAAAAJ:SdhP9T11ey4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A novel framework to expedite systematic reviews by automatically building information extraction training corpora",
+    "container-title": "arXiv preprint arXiv:1606.06424, 2016",
+    "author": [
+      {
+        "family": "Basu",
+        "given": "T"
+      },
+      {
+        "family": "Kumar",
+        "given": "S"
+      },
+      {
+        "family": "Kalyan",
+        "given": "A"
+      },
+      {
+        "family": "Jayaswal",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Pettifer",
+        "given": "S"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:BrmTIyaxlBUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Prabhupadavani: A code-mixed speech translation data for 25 languages",
+    "container-title": "arXiv preprint arXiv:2201.11391, 2022",
+    "author": [
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Daksh",
+        "given": "A"
+      },
+      {
+        "family": "Paranjay",
+        "given": "OA"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:43bX7VzcjpAC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Representation learning for conversational data using discourse mutual information maximization",
+    "container-title": "arXiv preprint arXiv:2112.05787, 2021",
+    "author": [
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Roychowdhury",
+        "given": "S"
+      },
+      {
+        "family": "Mandal",
+        "given": "A"
+      },
+      {
+        "family": "Gurram",
+        "given": "V"
+      },
+      {
+        "family": "Naik",
+        "given": "A"
+      },
+      {
+        "family": "Gupta",
+        "given": "M"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:CaZNVDsoPx4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "COMPARE: a taxonomy and dataset of comparison discussions in peer reviews",
+    "container-title": "2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 238-241, 2021",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "S"
+      },
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:NyGDZy8z5eUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "On the Compositionality Prediction of Noun Phrases using Poincar\\'e Embeddings",
+    "container-title": "arXiv preprint arXiv:1906.03007, 2019",
+    "author": [
+      {
+        "family": "Jana",
+        "given": "A"
+      },
+      {
+        "family": "Puzyrev",
+        "given": "D"
+      },
+      {
+        "family": "Panchenko",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Biemann",
+        "given": "C"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:hMsQuOkrut0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Query representation through lexical association for information retrieval",
+    "container-title": "IEEE Transactions on knowledge and Data Engineering 24 (12), 2260-2273, 2011",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "McGinnity",
+        "given": "TM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:IjCSPb-OGe4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Exploring generative models for joint attribute value extraction from product titles",
+    "container-title": "arXiv preprint arXiv:2208.07130, 2022",
+    "author": [
+      {
+        "family": "Roy",
+        "given": "K"
+      },
+      {
+        "family": "Nayak",
+        "given": "T"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:WHdLCjDvYFkC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Augmenting video lectures: Identifying off-topic concepts and linking to relevant video lecture segments",
+    "container-title": "International Journal of Artificial Intelligence in Education 32 (2), 382-412, 2022",
+    "author": [
+      {
+        "family": "Ghosh",
+        "given": "K"
+      },
+      {
+        "family": "Nangi",
+        "given": "SR"
+      },
+      {
+        "family": "Kanchugantla",
+        "given": "Y"
+      },
+      {
+        "family": "Rayapati",
+        "given": "PG"
+      },
+      {
+        "family": "Bhowmick",
+        "given": "PK"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:sJsF-0ZLhtgC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Neural approaches for data driven dependency parsing in Sanskrit",
+    "container-title": "arXiv preprint arXiv:2004.08076, 2020",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Gupta",
+        "given": "A"
+      },
+      {
+        "family": "Garasangi",
+        "given": "D"
+      },
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:q3CdL3IzO_QC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Automated assistance in e-commerce: An approach based on category-sensitive retrieval",
+    "container-title": "European Conference on Information Retrieval, 604-610, 2018",
+    "author": [
+      {
+        "family": "Majumder",
+        "given": "A"
+      },
+      {
+        "family": "Pande",
+        "given": "A"
+      },
+      {
+        "family": "Vonteru",
+        "given": "K"
+      },
+      {
+        "family": "Gangwar",
+        "given": "A"
+      },
+      {
+        "family": "Maji",
+        "given": "S"
+      },
+      {
+        "family": "Bhatia",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:-_dYPAW6P2MC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Exploring generative frameworks for product attribute value extraction",
+    "container-title": "Expert Systems with Applications 243, 122850, 2024",
+    "author": [
+      {
+        "family": "Roy",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Pandey",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:kWvqk_afx_IC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A framework to generate high-quality datapoints for multiple novel intent detection",
+    "container-title": "arXiv preprint arXiv:2205.02005, 2022",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Purkayastha",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:7Hz3ACDFbsoC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Identifying opinion and fact subcategories from the social web",
+    "container-title": "Proceedings of the 2018 ACM International Conference on Supporting Group …, 2018",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "D",
+        "given": "S Ghosh"
+      },
+      {
+        "family": "Maheswari",
+        "given": "S"
+      },
+      {
+        "family": "Sahoo",
+        "given": "S"
+      },
+      {
+        "family": "Maity",
+        "given": "SK"
+      },
+      {
+        "family": "C",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:tzM49s52ZIMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Using re-ranking to boost deep learning based community question retrieval",
+    "container-title": "Proceedings of the International Conference on Web Intelligence, 807-814, 2017",
+    "author": [
+      {
+        "family": "Ghosh",
+        "given": "K"
+      },
+      {
+        "family": "Bhowmick",
+        "given": "PK"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:W5xh706n7nkC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Towards automating the generation of derivative nouns in sanskrit by simulating panini",
+    "container-title": "arXiv preprint arXiv:1512.05670, 2015",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:5Ul4iDaHHb8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Serpent-vlm: Self-refining radiology report generation using vision language models",
+    "container-title": "arXiv preprint arXiv:2404.17912, 2024",
+    "author": [
+      {
+        "family": "Kapadnis",
+        "given": "MN"
+      },
+      {
+        "family": "Patnaik",
+        "given": "S"
+      },
+      {
+        "family": "Nandy",
+        "given": "A"
+      },
+      {
+        "family": "Ray",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Sheet",
+        "given": "D"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:F2UWTTQJPOcC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Meta-ed: Cross-lingual event detection using meta-learning for indian languages",
+    "container-title": "ACM Transactions on Asian and Low-Resource Language Information Processing …, 2023",
+    "author": [
+      {
+        "family": "Roy",
+        "given": "A"
+      },
+      {
+        "family": "Sharma",
+        "given": "I"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:MhiOAD_qIWkC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A novel multi-task learning approach for context-sensitive compound type identification in Sanskrit",
+    "container-title": "arXiv preprint arXiv:2208.10310, 2022",
+    "author": [
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Gupta",
+        "given": "A"
+      },
+      {
+        "family": "Terdalkar",
+        "given": "H"
+      },
+      {
+        "family": "Sandhan",
+        "given": "T"
+      },
+      {
+        "family": "Samanta",
+        "given": "S"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:7wO8s98CvbsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Characterizing the spread of exaggerated health news content over social media",
+    "container-title": "Proceedings of the 30th acm conference on hypertext and social media, 279-280, 2019",
+    "author": [
+      {
+        "family": "Patro",
+        "given": "J"
+      },
+      {
+        "family": "Baruah",
+        "given": "S"
+      },
+      {
+        "family": "Gupta",
+        "given": "V"
+      },
+      {
+        "family": "Choudhury",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:b1wdh0AR-JQC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Addressing vocabulary gap in e-commerce search",
+    "container-title": "Proceedings of the 42nd international ACM SIGIR conference on research and …, 2019",
+    "author": [
+      {
+        "family": "Maji",
+        "given": "S"
+      },
+      {
+        "family": "Kumar",
+        "given": "R"
+      },
+      {
+        "family": "Bansal",
+        "given": "M"
+      },
+      {
+        "family": "Roy",
+        "given": "K"
+      },
+      {
+        "family": "Kumar",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:g3aElNc5_aQC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Harnessing twitter for answering opinion list queries",
+    "container-title": "IEEE Transactions on Computational Social Systems 5 (4), 1083-1095, 2018",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Gupta",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:URolC5Kub84C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Converting Phrase Structures to Dependency Structures in Sanskrit",
+    "container-title": "Coling 2014, 2014",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Kulkarni",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:0EnyYjriUFMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Pre-annotation based approach for development of a Sanskrit named entity recognition dataset",
+    "container-title": "Proceedings of the Computational Sanskrit & Digital Humanities: Selected …, 2023",
+    "author": [
+      {
+        "family": "Sujoy",
+        "given": "S"
+      },
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:hsZV8lGYWTMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Event argument extraction using causal knowledge structures",
+    "container-title": "arXiv preprint arXiv:2105.00477, 2021",
+    "author": [
+      {
+        "family": "Kar",
+        "given": "D"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:gKiMpY-AVTkC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Logic constrained pointer networks for interpretable textual similarity",
+    "container-title": "arXiv preprint arXiv:2007.07670, 2020",
+    "author": [
+      {
+        "family": "Maji",
+        "given": "S"
+      },
+      {
+        "family": "Kumar",
+        "given": "R"
+      },
+      {
+        "family": "Bansal",
+        "given": "M"
+      },
+      {
+        "family": "Roy",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:HtS1dXgVpQUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "SHR++: An interface for morpho-syntactic annotation of Sanskrit corpora",
+    "container-title": "Proceedings of the Twelfth Language Resources and Evaluation Conference …, 2020",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Vidhyut",
+        "given": "S"
+      },
+      {
+        "family": "Chawla",
+        "given": "D"
+      },
+      {
+        "family": "Sambhavi",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:ruyezt5ZtCIC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Analysis of reference and citation copying in evolving bibliographic networks",
+    "container-title": "Journal of Informetrics 14 (1), 101003, 2020",
+    "author": [
+      {
+        "family": "Pandey",
+        "given": "PK"
+      },
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Chakrabarti",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:S16KYo8Pm5AC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "The rise and rise of interdisciplinary research: Understanding the interaction dynamics of three major fields–Physics, Mathematics and Computer Science",
+    "container-title": "International Conference on Asian Digital Libraries, 71-77, 2019",
+    "author": [
+      {
+        "family": "Hazra",
+        "given": "R"
+      },
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Adhikari",
+        "given": "B"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:tYavs44e6CUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Fully contextualized biomedical NER",
+    "container-title": "European Conference on Information Retrieval, 117-124, 2019",
+    "author": [
+      {
+        "family": "Gupta",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Gattu",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:L7CI7m0gUJcC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Towards evidence-based precision medicine: extracting population information from biomedical text using binary classifiers and syntactic patterns",
+    "container-title": "AMIA Summits on Translational Science Proceedings 2016, 203, 2016",
+    "author": [
+      {
+        "family": "Raja",
+        "given": "K"
+      },
+      {
+        "family": "Dasot",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Jonnalagadda",
+        "given": "SR"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:1qzjygNMrQYC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Voice, preverb, and transitivity restrictions in sanskrit verb use",
+    "container-title": "Sanskrit Syntax, Selected papers presented at the seminar on sanskrit syntax …, 2015",
+    "author": [
+      {
+        "family": "Scharf",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ajotikar",
+        "given": "A"
+      },
+      {
+        "family": "Ajotikar",
+        "given": "T"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:u9iWguZQMMsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Instruction-guided bullet point summarization of long financial earnings call transcripts",
+    "container-title": "Proceedings of the 47th International ACM SIGIR Conference on Research and …, 2024",
+    "author": [
+      {
+        "family": "Khatuya",
+        "given": "S"
+      },
+      {
+        "family": "Sinha",
+        "given": "K"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Ghosh",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:oi2SiIJ9l4AC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Linguistically Informed Post-processing for ASR Error correction in Sanskrit.",
+    "container-title": "INTERSPEECH, 2293-2297, 2022",
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "R"
+      },
+      {
+        "family": "Adiga",
+        "given": "D"
+      },
+      {
+        "family": "Ranjan",
+        "given": "R"
+      },
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Ramakrishnan",
+        "given": "G"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:wKETBy42zhYC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A graph based semi-supervised approach for analysis of derivational nouns in Sanskrit",
+    "container-title": "Proceedings of TextGraphs-11: the Workshop on Graph-based Methods for …, 2017",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "Ponnada",
+        "given": "H"
+      },
+      {
+        "family": "Ahmed",
+        "given": "M"
+      },
+      {
+        "family": "Arora",
+        "given": "G"
+      },
+      {
+        "family": "Hiware",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:uLbwQdceFCQC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A two-phase approach towards identifying argument structure in Natural Language",
+    "container-title": "arXiv preprint arXiv:1612.05420, 2016",
+    "author": [
+      {
+        "family": "Pathak",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Bhowmick",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:dTyEYWd-f8wC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Is this conference a top-tier? ConfAssist: An assistive conflict resolution framework for conference categorization",
+    "container-title": "Journal of Informetrics 10 (4), 1005-1022, 2016",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Chakraborty",
+        "given": "T"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:kRWSkSYxWN8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "An information retrieval model based on automatically learnt concept hierarchies",
+    "container-title": "2009 IEEE International Conference on Semantic Computing, 458-465, 2009",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "McGinnity",
+        "given": "TM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:W7OEmFMy1HYC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Intent detection and entity extraction from biomedical literature",
+    "container-title": "arXiv preprint arXiv:2404.03598, 2024",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Gupta",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:FiDNX6EVdGUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Frugal prompting for dialog models",
+    "container-title": "arXiv preprint arXiv:2305.14919, 2023",
+    "author": [
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Basak",
+        "given": "S"
+      },
+      {
+        "family": "De",
+        "given": "A"
+      },
+      {
+        "family": "Gupta",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:1Ye0OR6EYb4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Joint autoregressive and graph models for software and developer social networks",
+    "container-title": "European Conference on Information Retrieval, 224-237, 2021",
+    "author": [
+      {
+        "family": "Hazra",
+        "given": "R"
+      },
+      {
+        "family": "Aggarwal",
+        "given": "H"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Chakrabarti",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:ZzlSgRqYykMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Weakly-supervised deep learning for domain invariant sentiment classification",
+    "container-title": "proceedings of the 7th ACM IKDD CoDS and 25th COMAD, 239-243, 2020",
+    "author": [
+      {
+        "family": "Kayal",
+        "given": "P"
+      },
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:M7yex6snE4oC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Network features based co-hyponymy detection",
+    "container-title": "arXiv preprint arXiv:1802.04609, 2018",
+    "author": [
+      {
+        "family": "Jana",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:35r97b3x0nAC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Extracting social lists from twitter",
+    "container-title": "Proceedings of the 2017 IEEE/ACM International Conference on Advances in …, 2017",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Gupta",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:Fu2w8maKXqMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "ConfAssist: A Conflict resolution framework for assisting the categorization of Computer Science conferences",
+    "container-title": "Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries …, 2015",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Chakraborty",
+        "given": "T"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:WbkHhVStYXYC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "How robust are the qa models for hybrid scientific tabular data? a study using customized dataset",
+    "container-title": "Proceedings of the 2024 Joint International Conference on Computational …, 2024",
+    "author": [
+      {
+        "family": "Ghosh",
+        "given": "A"
+      },
+      {
+        "family": "Bathini",
+        "given": "VS"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Singh",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:ziOE8S1-AIUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Modeling interdisciplinary interactions among physics, mathematics and computer science",
+    "container-title": "Journal of Physics: Complexity 4 (4), 045001, 2023",
+    "author": [
+      {
+        "family": "Hazra",
+        "given": "R"
+      },
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Adhikari",
+        "given": "B"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:sszUF3NjhM4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Sanskritshala: A neural sanskrit nlp toolkit with web-based interface for pedagogical and annotation purposes",
+    "container-title": "arXiv preprint arXiv:2302.09527, 2023",
+    "author": [
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Agarwal",
+        "given": "A"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "Sandhan",
+        "given": "T"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:rHJHxKgnXwkC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Fast Few Shot Self-attentive Semi-supervised Political Inclination Prediction",
+    "container-title": "International Conference on Asian Digital Libraries, 3-20, 2022",
+    "author": [
+      {
+        "family": "Chakraborty",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:PYBJJbyH-FwC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Using sentence-level classification helps entity extraction from material science literature",
+    "container-title": "Proceedings of the Thirteenth Language Resources and Evaluation Conference …, 2022",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Pal",
+        "given": "S"
+      },
+      {
+        "family": "Nayak",
+        "given": "T"
+      },
+      {
+        "family": "Lee",
+        "given": "SC"
+      },
+      {
+        "family": "Bhattacharjee",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:kw52XkFRtyQC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Network embeddings from distributional thesauri for improving static word representations",
+    "container-title": "Expert Systems with Applications 187, 115868, 2022",
+    "author": [
+      {
+        "family": "Jana",
+        "given": "A"
+      },
+      {
+        "family": "Haldar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:4xDN1ZYqzskC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Finding prerequisite relations between concepts using textbook",
+    "container-title": "arXiv preprint arXiv:2011.10337, 2020",
+    "author": [
+      {
+        "family": "Pal",
+        "given": "S"
+      },
+      {
+        "family": "Arora",
+        "given": "V"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:r_AWSJRzSzQC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Network measures: A new paradigm towards reliable novel word sense detection",
+    "container-title": "Information Processing & Management 57 (6), 102173, 2020",
+    "author": [
+      {
+        "family": "Jana",
+        "given": "A"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:WZBGuue-350C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Using distributional thesaurus embedding for co-hyponymy detection",
+    "container-title": "arXiv preprint arXiv:2002.11506, 2020",
+    "author": [
+      {
+        "family": "Jana",
+        "given": "A"
+      },
+      {
+        "family": "Varimalla",
+        "given": "NR"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:HbR8gkJAVGIC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "WikiRef: Wikilinks as a route to recommending appropriate references for scientific Wikipedia pages",
+    "container-title": "arXiv preprint arXiv:1806.04092, 2018",
+    "author": [
+      {
+        "family": "Jana",
+        "given": "A"
+      },
+      {
+        "family": "Kanojiya",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:t7zJ5fGR-2UC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Ervqa: A dataset to benchmark the readiness of large vision language models in hospital environments",
+    "container-title": "arXiv preprint arXiv:2410.06420, 2024",
+    "author": [
+      {
+        "family": "Ray",
+        "given": "S"
+      },
+      {
+        "family": "Gupta",
+        "given": "K"
+      },
+      {
+        "family": "Kundu",
+        "given": "S"
+      },
+      {
+        "family": "Kasat",
+        "given": "PA"
+      },
+      {
+        "family": "Aditya",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:SGW5VrABaM0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Leveraging the power of llms: A fine-tuning approach for high-quality aspect-based summarization",
+    "container-title": "arXiv preprint arXiv:2408.02584, 2024",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Bose",
+        "given": "S"
+      },
+      {
+        "family": "Saha",
+        "given": "R"
+      },
+      {
+        "family": "Bhowmick",
+        "given": "AK"
+      },
+      {
+        "family": "Vempaty",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:An6A6Jpfc1oC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Enhancing low-resource nmt with a multilingual encoder and knowledge distillation: A case study",
+    "container-title": "arXiv preprint arXiv:2407.06538, 2024",
+    "author": [
+      {
+        "family": "Roy",
+        "given": "A"
+      },
+      {
+        "family": "Ray",
+        "given": "P"
+      },
+      {
+        "family": "Maheshwari",
+        "given": "A"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:5bg8sr1QxYwC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "On the persona-based summarization of domain-specific documents",
+    "container-title": "arXiv preprint arXiv:2406.03986, 2024",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Bose",
+        "given": "S"
+      },
+      {
+        "family": "Saha",
+        "given": "R"
+      },
+      {
+        "family": "Bhowmick",
+        "given": "AK"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Dey",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:WAzi4Gm8nLoC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Parameter-Efficient Instruction Tuning of Large Language Models For Extreme Financial Numeral Labelling",
+    "container-title": "arXiv preprint arXiv:2405.06671, 2024",
+    "author": [
+      {
+        "family": "Khatuya",
+        "given": "S"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "R"
+      },
+      {
+        "family": "Ghosh",
+        "given": "A"
+      },
+      {
+        "family": "Hegde",
+        "given": "M"
+      },
+      {
+        "family": "Dasgupta",
+        "given": "K"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:w1MjKQ0l0TYC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Depnecti: Dependency-based nested compound type identification for sanskrit",
+    "container-title": "arXiv preprint arXiv:2310.09501, 2023",
+    "author": [
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Narsupalli",
+        "given": "Y"
+      },
+      {
+        "family": "Muppirala",
+        "given": "S"
+      },
+      {
+        "family": "Krishnan",
+        "given": "S"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "Kulkarni",
+        "given": "A"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:mKu_rENv82IC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "(Im) balance in the Representation of News? An Extensive Study on a Decade Long Dataset from India",
+    "container-title": "International Conference on Social Informatics, 347-369, 2022",
+    "author": [
+      {
+        "family": "Chakraborty",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:wMgC3FpKEyYC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Effectiveness of data augmentation to identify relevant reviews for product question answering",
+    "container-title": "Companion Proceedings of the Web Conference 2022, 298-301, 2022",
+    "author": [
+      {
+        "family": "Roy",
+        "given": "K"
+      },
+      {
+        "family": "Goel",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:LdasjJ6CEcoC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A study on prompt-based few-shot learning methods for belief state tracking in task-oriented dialog systems",
+    "container-title": "arXiv preprint arXiv:2204.08167, 2022",
+    "author": [
+      {
+        "family": "Saha",
+        "given": "D"
+      },
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:v1_lew4L6wgC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Using large pretrained language models for answering user queries from product specifications",
+    "container-title": "arXiv preprint arXiv:2005.14613, 2020",
+    "author": [
+      {
+        "family": "Roy",
+        "given": "K"
+      },
+      {
+        "family": "Shah",
+        "given": "S"
+      },
+      {
+        "family": "Pai",
+        "given": "N"
+      },
+      {
+        "family": "Ramtej",
+        "given": "J"
+      },
+      {
+        "family": "Nadkarn",
+        "given": "PP"
+      },
+      {
+        "family": "Banerjee",
+        "given": "J"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:edDO8Oi4QzsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Detecting reliable novel word senses: A network-centric approach",
+    "container-title": "Proceedings of the 34th ACM/SIGAPP symposium on applied computing, 976-983, 2019",
+    "author": [
+      {
+        "family": "Jana",
+        "given": "A"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:BUYA1_V_uYcC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Characterizing the spread of exaggerated news content over social media",
+    "container-title": "arXiv preprint arXiv:1811.07853, 2018",
+    "author": [
+      {
+        "family": "Patro",
+        "given": "J"
+      },
+      {
+        "family": "Baruah",
+        "given": "S"
+      },
+      {
+        "family": "Gupta",
+        "given": "V"
+      },
+      {
+        "family": "Choudhury",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:tuHXwOkdijsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Peq: An explainable, specification-based, aspect-oriented product comparator for e-commerce",
+    "container-title": "Proceedings of the 25th ACM International on Conference on Information and …, 2016",
+    "author": [
+      {
+        "family": "Sikchi",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Datta",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:tkaPQYYpVKoC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Yesbut: A high-quality annotated multimodal dataset for evaluating satire comprehension capability of vision-language models",
+    "container-title": "arXiv preprint arXiv:2409.13592, 2024",
+    "author": [
+      {
+        "family": "Nandy",
+        "given": "A"
+      },
+      {
+        "family": "Agarwal",
+        "given": "Y"
+      },
+      {
+        "family": "Patwa",
+        "given": "A"
+      },
+      {
+        "family": "Das",
+        "given": "MM"
+      },
+      {
+        "family": "Bansal",
+        "given": "A"
+      },
+      {
+        "family": "Raj",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:2l5NCbZemmgC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Legal statute identification: A case study using state-of-the-art datasets and methods",
+    "container-title": "Proceedings of the 47th International ACM SIGIR Conference on Research and …, 2024",
+    "author": [
+      {
+        "family": "Paul",
+        "given": "S"
+      },
+      {
+        "family": "Bhatt",
+        "given": "R"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ghosh",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:BrOSOlqYqPUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Order-based pre-training strategies for procedural text understanding",
+    "container-title": "arXiv preprint arXiv:2404.04676, 2024",
+    "author": [
+      {
+        "family": "Nandy",
+        "given": "A"
+      },
+      {
+        "family": "Kulkarni",
+        "given": "Y"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:w0F2JDEymm0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Long dialog summarization: An analysis",
+    "container-title": "arXiv preprint arXiv:2402.16986, 2024",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Bhowmick",
+        "given": "AK"
+      },
+      {
+        "family": "Kokku",
+        "given": "R"
+      },
+      {
+        "family": "Dey",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:KNjnJ3z-R6IC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "ArgGen: Prompting text generation models for document-level event-argument aggregation",
+    "container-title": "Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022 …, 2022",
+    "author": [
+      {
+        "family": "Kar",
+        "given": "D"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:Br1UauaknNIC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Does Meta-learning Help mBERT for Few-shot Question Generation in a Cross-lingual Transfer Setting for Indic Languages?",
+    "container-title": "Proceedings of the 29th International Conference on Computational …, 2022",
+    "author": [
+      {
+        "family": "Roy",
+        "given": "A"
+      },
+      {
+        "family": "Thakur",
+        "given": "RK"
+      },
+      {
+        "family": "Sharma",
+        "given": "I"
+      },
+      {
+        "family": "Gupta",
+        "given": "A"
+      },
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:CB2v5VPnA5kC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Investigating the generative approach for question answering in E-commerce",
+    "container-title": "Proceedings of the Fifth Workshop on e-Commerce and NLP (ECNLP 5), 210-216, 2022",
+    "author": [
+      {
+        "family": "Roy",
+        "given": "K"
+      },
+      {
+        "family": "Balapanuru",
+        "given": "V"
+      },
+      {
+        "family": "Nayak",
+        "given": "T"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:MpfHP-DdYjUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Systematic Investigation of Strategies Tailored for Low-Resource Settings for Low-Resource Dependency Parsing",
+    "container-title": "arXiv preprint arXiv:2201.11374, 2022",
+    "author": [
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:jFemdcug13IC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "ArgFuse: A Weakly-Supervised Framework for Document-Level Event Argument Aggregation",
+    "container-title": "arXiv preprint arXiv:2106.10862, 2021",
+    "author": [
+      {
+        "family": "Kar",
+        "given": "D"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:Ak0FvsSvgGUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Adapting predominant and novel sense discovery algorithms for identifying corpus-specific sense differences",
+    "container-title": "arXiv preprint arXiv:1802.00231, 2018",
+    "author": [
+      {
+        "family": "Mathew",
+        "given": "B"
+      },
+      {
+        "family": "Maity",
+        "given": "SK"
+      },
+      {
+        "family": "Sarkar",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:_Ybze24A_UAC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "INDIAN INSTITUTE OF ENGINEERING SCIENCE & TECHNOLOGY, SHIBPUR",
+    "container-title": null,
+    "author": [
+      {
+        "family": "Card",
+        "given": "PI"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:QyXJ3EUuO1IC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "An ‘Ekalavya’Approach to Learning Context Free Grammar Rules for Sanskrit Using Adaptor Grammar",
+    "container-title": "Computational Sanskrit & Digital Humanities, 83, 2018",
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Majumder",
+        "given": "BP"
+      },
+      {
+        "family": "Boga",
+        "given": "AK"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:4MWp96NkSFoC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Which techniques does your application use?: An information extraction framework for scientific articles",
+    "container-title": "arXiv preprint arXiv:1608.06386, 2016",
+    "author": [
+      {
+        "family": "Dan",
+        "given": "S"
+      },
+      {
+        "family": "Agarwal",
+        "given": "S"
+      },
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:raTqNPD5sRQC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Isolated esophageal injury following blunt thoracic trauma: a rarity",
+    "container-title": "Gastroenterology Research 2 (5), 307, 2009",
+    "author": [
+      {
+        "family": "Dalal",
+        "given": "S"
+      },
+      {
+        "family": "Dalal",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:AXkvAH5U_nMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Linguistically informed automatic speech recognition in sanskrit",
+    "container-title": "Computer Speech & Language, 101861, 2025",
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "R"
+      },
+      {
+        "family": "Adiga",
+        "given": "D"
+      },
+      {
+        "family": "Ranjan",
+        "given": "R"
+      },
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Ramakrishnan",
+        "given": "G"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:3bvyWxjaHKcC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Role of crisis information summarization through microblogs in disaster management",
+    "container-title": "International Handbook of Disaster Research, 1-21, 2023",
+    "author": [
+      {
+        "family": "Rudra",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Mitra",
+        "given": "P"
+      },
+      {
+        "family": "Imran",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:-95Q15plzcUC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "$ FastDoc $: Domain-Specific Fast Pre-training Technique using Document-Level Metadata and Taxonomy",
+    "container-title": "arXiv e-prints, arXiv: 2306.06190, 2023",
+    "author": [
+      {
+        "family": "Nandy",
+        "given": "A"
+      },
+      {
+        "family": "Kapadnis",
+        "given": "M Nitin"
+      },
+      {
+        "family": "Patnaik",
+        "given": "S"
+      },
+      {
+        "family": "Butala",
+        "given": "Y Parag"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:kF1pexMAQbMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "CORAL: Contextual Response Retrievability Loss Function for Training Dialog Generation Models",
+    "container-title": "arXiv preprint arXiv:2205.10558, 2022",
+    "author": [
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Ghadia",
+        "given": "R"
+      },
+      {
+        "family": "Gupta",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:nRpfm8aw39MC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Which acts model happiness? an exploratory analysis on Twitter and Goodreads",
+    "container-title": "Proceedings of the 2021 IEEE/ACM International Conference on Advances in …, 2021",
+    "author": [
+      {
+        "family": "Bhasin",
+        "given": "M"
+      },
+      {
+        "family": "",
+        "given": "Harshit"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:1lhNe0rCu4AC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Competing topic naming conventions in quora: predicting appropriate topic merges and winning topics from millions of topic pairs",
+    "container-title": "Proceedings of the 7th ACM IKDD CoDS and 25th COMAD, 125-133, 2020",
+    "author": [
+      {
+        "family": "Mathew",
+        "given": "B"
+      },
+      {
+        "family": "Maity",
+        "given": "SK"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:gsN89kCJA0AC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "WikiM: Metapaths based wikification of scientific abstracts",
+    "container-title": "2017 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 1-10, 2017",
+    "author": [
+      {
+        "family": "Jana",
+        "given": "A"
+      },
+      {
+        "family": "Mooriyath",
+        "given": "S"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:hkOj_22Ku90C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Citation sentence reuse behavior of scientists: A case study on massive bibliographic text dataset of computer science",
+    "container-title": "2017 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 1-4, 2017",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Niranjan",
+        "given": "A"
+      },
+      {
+        "family": "Gupta",
+        "given": "D"
+      },
+      {
+        "family": "Bakshi",
+        "given": "NA"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:1yQoGdGgb4wC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Large Web Corpora of High Quality for Indian Languages",
+    "container-title": "LREC Workshop on Indian Language Data: Resources and Evaluation, 2014",
+    "author": [
+      {
+        "family": "Quasthoff¹",
+        "given": "U"
+      },
+      {
+        "family": "Mitra",
+        "given": "R"
+      },
+      {
+        "family": "Mitra",
+        "given": "S"
+      },
+      {
+        "family": "Eckart¹",
+        "given": "T"
+      },
+      {
+        "family": "Goldhahn¹",
+        "given": "D"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:hqOjcs7Dif8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Convolutional Recurrent Neural Network Based Approach for Making Sense of Sounds Data Challenge",
+    "container-title": "Technical Report Published in Making Sense of Sounds Data Challenge 2018, 54 …, 0",
+    "author": [
+      {
+        "family": "Mukherjee",
+        "given": "R"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Banerjee",
+        "given": "D"
+      },
+      {
+        "family": "Dey",
+        "given": "K"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {},
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:kVjdVfd2voEC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "A Pointer Network-based Approach for Joint Extraction and Detection of Multi-Label Multi-Class Intents",
+    "container-title": "arXiv preprint arXiv:2410.22476, 2024",
+    "author": [
+      {
+        "family": "Mullick",
+        "given": "A"
+      },
+      {
+        "family": "Bose",
+        "given": "S"
+      },
+      {
+        "family": "Nandy",
+        "given": "A"
+      },
+      {
+        "family": "Chaitanya",
+        "given": "GS"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:pS0ncopqnHgC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "CSSL: Contrastive Self-Supervised Learning for Dependency Parsing on Relatively Free Word Ordered and Morphologically Rich Low Resource Languages",
+    "container-title": "arXiv preprint arXiv:2410.06944, 2024",
+    "author": [
+      {
+        "family": "Ray",
+        "given": "P"
+      },
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:DkZNVXde3BIC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "ReFeR: Improving Evaluation and Reasoning through Hierarchy of Models",
+    "container-title": "arXiv preprint arXiv:2407.12877, 2024",
+    "author": [
+      {
+        "family": "Narsupalli",
+        "given": "Y"
+      },
+      {
+        "family": "Chandra",
+        "given": "A"
+      },
+      {
+        "family": "Muppirala",
+        "given": "S"
+      },
+      {
+        "family": "Gupta",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:rTD5ala9j4wC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Aesthetics of Sanskrit Poetry from the Perspective of Computational Linguistics: A Case Study Analysis on Siksastaka",
+    "container-title": "arXiv preprint arXiv:2308.07081, 2023",
+    "author": [
+      {
+        "family": "Sandhan",
+        "given": "J"
+      },
+      {
+        "family": "Barbadikar",
+        "given": "A"
+      },
+      {
+        "family": "Maity",
+        "given": "M"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "Sandhan",
+        "given": "T"
+      },
+      {
+        "family": "Gupta",
+        "given": "RM"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:NDuN12AVoxsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Exploring Effects of Random Walk Based Minibatch Selection Policy on Knowledge Graph Completion",
+    "container-title": "arXiv preprint arXiv:2004.05553, 2020",
+    "author": [
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Sharma",
+        "given": "P"
+      },
+      {
+        "family": "Roychowdhury",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:foquWX3nUaYC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Biomedical Relation Classification by single and multiple source domain adaptation",
+    "container-title": "Proceedings of the Tenth International Workshop on Health Text Mining and …, 2019",
+    "author": [
+      {
+        "family": "Chakraborty",
+        "given": "S"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Gattu",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:oNZyr7d5Mn4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Proceedings of the 6th International Sanskrit Computational Linguistics Symposium",
+    "container-title": "Proceedings of the 6th International Sanskrit Computational Linguistics …, 2019",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:kz9GbA2Ns4gC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Learning to Extract Comparison Points of Entity Pairs from Wikipedia Articles",
+    "container-title": "Proceedings of the 18th ACM/IEEE on Joint Conference on Digital Libraries …, 2018",
+    "author": [
+      {
+        "family": "Pani",
+        "given": "SK"
+      },
+      {
+        "family": "R",
+        "given": "N"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Bhowmick",
+        "given": "PK"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:z_wVstp3MssC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Challenges of coreference resolution in biomedical text and experimenting with the biological entities",
+    "container-title": null,
+    "author": [
+      {
+        "family": "Mondal",
+        "given": "I"
+      },
+      {
+        "family": "Sarkar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=100&pagesize=100&citation_for_view=F14FHsIAAAAJ:epqYDVWIO7EC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Sic Transit Gloria Manuscriptum: Two Views of the Aggregate Fate of Ancient Papers",
+    "container-title": "arXiv preprint arXiv:1511.08310, 2015",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "M"
+      },
+      {
+        "family": "Sarkar",
+        "given": "R"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Chakrabarti",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=200&pagesize=100&citation_for_view=F14FHsIAAAAJ:sSrBHYA8nusC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Analytic knowledge discovery techniques for ad-hoc information retrieval and automatic text summarization",
+    "container-title": null,
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=200&pagesize=100&citation_for_view=F14FHsIAAAAJ:eQOLeE2rZwMC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Entailment of Causal Queries in Narratives Using Action Language",
+    "container-title": "International Conference on Knowledge Discovery and Information Retrieval 2 …, 2009",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "McGinnity",
+        "given": "TM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=200&pagesize=100&citation_for_view=F14FHsIAAAAJ:LkGwnXOMwfcC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Tagging of Text with Emotion for Emotional Speech Synthesis",
+    "container-title": "The IT&T, 111, 2008",
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Arora",
+        "given": "V"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "McGinnity",
+        "given": "TM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=200&pagesize=100&citation_for_view=F14FHsIAAAAJ:ufrVoPGSRksC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "ReFeR: A Hierarchical Framework of Models as Evaluative and Reasoning Agents",
+    "container-title": "Workshop on Socially Responsible Language Modelling Research, 0",
+    "author": [
+      {
+        "family": "Narsupalli",
+        "given": "Y"
+      },
+      {
+        "family": "Chandra",
+        "given": "A"
+      },
+      {
+        "family": "Muppirala",
+        "given": "S"
+      },
+      {
+        "family": "Gupta",
+        "given": "M"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {},
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=200&pagesize=100&citation_for_view=F14FHsIAAAAJ:69ZgNCALVd0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "On the Categorization of Scientific Citation Profiles in Computer Science A new dynamic growth model reveals how citation networks evolve over time, pointing the way toward …",
+    "container-title": null,
+    "author": [
+      {
+        "family": "Chakraborty",
+        "given": "T"
+      },
+      {
+        "family": "Kumar",
+        "given": "S"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      }
+    ],
+    "issued": {},
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=200&pagesize=100&citation_for_view=F14FHsIAAAAJ:VN7nJs4JPk0C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "$\\textbf {\\emph {CLMSM}} $: A Multi-Task Learning Framework for Pre-training on Procedural Text",
+    "container-title": "The 2023 Conference on Empirical Methods in Natural Language Processing, 0",
+    "author": [
+      {
+        "family": "Nandy",
+        "given": "A"
+      },
+      {
+        "family": "Kapadnis",
+        "given": "MN"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Ganguly",
+        "given": "N"
+      }
+    ],
+    "issued": {},
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=200&pagesize=100&citation_for_view=F14FHsIAAAAJ:1DsIQWDZLl8C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "WikiM: Metapaths based Wikification of Scientific",
+    "container-title": null,
+    "author": [
+      {
+        "family": "Jana",
+        "given": "A"
+      },
+      {
+        "family": "Mooriyath",
+        "given": "S"
+      },
+      {
+        "family": "Mukherjee",
+        "given": "A"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {},
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=200&pagesize=100&citation_for_view=F14FHsIAAAAJ:Ehil0879vHcC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Supplementary Material for Keep It Surprisingly Simple: A Simple First Order Graph Based Parsing Model for Joint Morphosyntactic Parsing in Sanskrit",
+    "container-title": null,
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Gupta",
+        "given": "A"
+      },
+      {
+        "family": "Garasangi",
+        "given": "D"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "Goyal",
+        "given": "P"
+      }
+    ],
+    "issued": {},
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=200&pagesize=100&citation_for_view=F14FHsIAAAAJ:KbBQZpvPDL4C",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "Supplementary Materials for “Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit”",
+    "container-title": null,
+    "author": [
+      {
+        "family": "Krishna",
+        "given": "A"
+      },
+      {
+        "family": "Santra",
+        "given": "B"
+      },
+      {
+        "family": "Bandaru",
+        "given": "SP"
+      },
+      {
+        "family": "Sahu",
+        "given": "G"
+      },
+      {
+        "family": "Sharma",
+        "given": "VD"
+      },
+      {
+        "family": "Satuluri",
+        "given": "P"
+      },
+      {
+        "family": "",
+        "given": "..."
+      }
+    ],
+    "issued": {},
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=200&pagesize=100&citation_for_view=F14FHsIAAAAJ:ipzZ9siozwsC",
+    "citation-count": 0,
+    "type": null
+  },
+  {
+    "title": "An Information Retrieval Approach Based on Semantically Adapted Vector Space Model",
+    "container-title": null,
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "P"
+      },
+      {
+        "family": "Behera",
+        "given": "L"
+      },
+      {
+        "family": "McGinnity",
+        "given": "TM"
+      }
+    ],
+    "issued": {},
+    "DOI": null,
+    "abstract": null,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F14FHsIAAAAJ&cstart=200&pagesize=100&citation_for_view=F14FHsIAAAAJ:_FxGoFyzp5QC",
+    "citation-count": 0,
+    "type": null
+  }
+]
