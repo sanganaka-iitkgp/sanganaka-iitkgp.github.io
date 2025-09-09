@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: scholar
 title: Pretam Ray
 image: preetamray.jpeg
 role: MS Student

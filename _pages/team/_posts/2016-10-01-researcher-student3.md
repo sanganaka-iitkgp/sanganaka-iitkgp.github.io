@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: scholar
 title: Kunal Kingkar
 image: placeholder.jpg
 role: MS Student

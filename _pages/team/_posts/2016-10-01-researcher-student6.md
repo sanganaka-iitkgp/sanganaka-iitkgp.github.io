@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: staff
 title: Kartikeya Singh
 image: KartikeyaSingh.jpeg
 role: Junior Project Engineer

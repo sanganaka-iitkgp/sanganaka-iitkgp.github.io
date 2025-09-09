@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: scholar
 title: Manoj Balaji J
 image: manojbalajij.jpeg
 role: PhD Student

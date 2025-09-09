@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: staff
 title: Shubham Das
 image: shubhamdas.jpeg
 role: Junior Research Fellow

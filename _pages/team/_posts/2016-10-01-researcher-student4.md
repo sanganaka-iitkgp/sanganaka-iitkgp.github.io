@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: staff
 title: Shivraj Anand
 image: shivrajanand.jpg
 role: Language Analyst

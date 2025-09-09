@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: professor
 title: Pawan Goyal
 image: pawangoyal.png
 role: Principal Investigator
