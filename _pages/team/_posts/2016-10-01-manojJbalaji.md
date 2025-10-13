@@ -12,28 +12,35 @@ social:
     website: https://www.jmanojbalaji.in/
     orcid: https://orcid.org/0000-0001-6452-4768
 education:
-  - "Ph.D., Computer Science  
-    Indian Institute of Technology, Kharagpur  
-    Working on Sanskrit Computational Linguistics, focusing on Question Answering, Cross-lingual Summarisation, and Information Retrieval"
+  - |
+    **Ph.D., Computer Science**  
+    **Indian Institute of Technology, Kharagpur**  
+    - Working on Sanskrit Computational Linguistics, focusing on Question Answering, Cross-lingual Summarisation, and Information Retrieval"
 
-  - "M.Sc. in Financial Engineering, Jul 2020 – Jun 2022  
-    WorldQuant University  
-    Grade: 94% (Excellent)  
-    Skills: Time Series Analysis, Portfolio Optimization, Data Analysis"
+  - |
+    **M.Sc. in Financial Engineering, WorldQuant University**  
+    - Jul 2020 – Jun 2022  
+    - Grade: 94% (Excellent)  
+    - Skills: Time Series Analysis, Portfolio Optimization, Data Analysis"
 
-  - "M.Tech in Data Science and Engineering, Oct 2019 – Mar 2022  
-    Birla Institute of Technology and Science, Pilani  
-    Grade: 8.53  
-    Skills: NLP, Stream Processing, Big Data Analytics, Machine Learning, Deep Learning"
+  - |
+    **M.Tech in Data Science and Engineering**  
+    **Birla Institute of Technology and Science, Pilani** 
+    - Oct 2019 – Mar 2022  
+    - Grade: 8.53  
+    - Skills: NLP, Stream Processing, Big Data Analytics, Machine Learning, Deep Learning"
 
-  - "B.E. in Information Science, Aug 2014 – Jun 2018  
-    UVCE (University Visvesvaraya College of Engineering)  
-    Grade: 77.25% (Distinction)  
-    Activities: IEEE UVCE, Music Band (8 GB RAM), Club Animeous, E-Cell"
+  - |
+    **B.E. in Information Science**  
+    **UVCE (University Visvesvaraya College of Engineering)**
+    - Aug 2014 – Jun 2018  
+    - Grade: 77.25% (Distinction)  
+    - Activities: IEEE UVCE, Music Band (8 GB RAM), Club Animeous, E-Cell"
 
-  - "Schooling, Apr 2002 – Jan 2014  
-    Kendriya Vidyalaya  
-    Grade: A++"
+  - |
+    **Schooling, Kendriya Vidyalaya**  
+    - Apr 2002 – Jan 2014
+    - Grade: A++"
 
 
 ---

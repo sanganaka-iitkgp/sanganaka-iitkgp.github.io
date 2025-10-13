@@ -32,21 +32,21 @@ figcaption {
   margin-right: 0 !important;
 }
 
-.team-member-card {
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
+// .team-member-card {
+//   margin-top: 20px;
+//   margin-bottom: 20px;
+// }
 
 .container-fluid {
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 900px; /* or 950px */
+  margin-right: 0;
+  margin-left: 0;
+  max-width: 100%;
+  padding-left: 50px;  // Optional: add some padding to prevent content touching edges
+  padding-right: 15px; // Optional: same as above
 }
+
 
 /* Carousel */
 
-.carousel {
-  border-radius: 3px 3px 3px 3px;
-  margin-bottom: 20px;
-  margin-top: 20px;
-}
+
+

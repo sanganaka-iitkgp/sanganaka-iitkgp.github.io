@@ -2,64 +2,236 @@
 layout: default
 ---
 
-<div class="col-sm-12">
+<style>
+    .profile-container {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+    
+    .breadcrumb {
+        background: transparent;
+        padding: 0;
+        margin-bottom: 2rem;
+        font-size: 2rem;
+    }
+    
+    .breadcrumb-item a {
+        color: #6b7280;
+        text-decoration: none;
+        transition: color 0.2s;
+    }
+    
+    .breadcrumb-item a:hover {
+        color: #111827;
+    }
+    
+    .breadcrumb-item.active {
+        color: #111827;
+    }
+    
+    .profile-image {
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        object-fit: cover;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        margin-bottom: 1.5rem;
+    }
+    
+    .profile-name {
+        font-size: 5rem;
+        font-weight: 600;
+        color: #111827;
+        margin-bottom: 0.5rem;
+    }
+    
+    .profile-role {
+        font-size: 2.125rem;
+        color: #6b7280;
+        font-weight: 400;
+        margin-bottom: 1.5rem;
+    }
+    
+    .social-links {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+    }
+    
+    .social-links a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background: #f9fafb;
+        color: #6b7280;
+        transition: all 0.2s;
+        text-decoration: none;
+    }
+    
+    .social-links a:hover {
+        background: #111827;
+        color: #ffffff;
+        transform: translateY(-2px);
+    }
+    
+    .social-links .fa-twitter:hover { background: #1da1f2; color: #fff; }
+    .social-links .fa-linkedin:hover { background: #0077b5; color: #fff; }
+    .social-links .fa-github:hover { background: #333; color: #fff; }
+    .social-links .fa-globe:hover { background: #4f46e5; color: #fff; }
+    .social-links .fa-graduation-cap:hover { background: #4285f4; color: #fff; }
+    .social-links .fa-orcid:hover { background: #a6ce39; color: #fff; }
+    .social-links .fa-researchgate:hover { background: #00d0af; color: #fff; }
+    
+    .section-title {
+        font-size: 3.5rem;
+        font-weight: 600;
+        color: #111827;
+        margin-bottom: 1.5rem;
+        padding-bottom: 0.75rem;
+        border-bottom: 2px solid #f3f4f6;
+    }
+    
+    .education-list {
+        list-style: none;
+        font-size: 1.5rem;
+        padding: 0;
+        margin: 0;
+    }
+    
+    .education-item {
+        background: #ffffff;
+        border: 1px solid #e5e7eb;
+        border-radius: 8px;
+        padding: 1.5rem;
+        margin-bottom: 1rem;
+        transition: all 0.2s;
+    }
+    
+    .education-item:hover {
+        border-color: #d1d5db;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    }
+    
+    .education-item:last-child {
+        margin-bottom: 0;
+    }
+    
+    .bio-content {
+        color: #374151;
+        line-height: 1.75;
+        font-size: 2rem;
+    }
+    
+    .bio-content p {
+        margin-bottom: 1rem;
+    }
+</style>
+
+<div class="container py-5 profile-container">
+    <!-- Breadcrumb -->
     <div class="row">
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="{{ site.baseurl }}/team">Team</a></li>
-                <li class="breadcrumb-item text-capitalize"><a href="{{ site.baseurl }}/team#{{ page.category }}">{{ page.category }}</a></li>
+                <li class="breadcrumb-item text-capitalize"><a href="{{ site.baseurl }}/team#{{ page.category }}">{{
+                        page.category }}</a></li>
                 <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
             </ol>
         </nav>
     </div>
-    <div class="row text-center">
-        <!-- Avatar -->
-        <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ page.image }}" class="img-circle" style="max-width: 200px;" />
 
-        <!-- Name & Role -->
-        <h1>{{ page.title }}</h1>
-        <h3>{{ page.role }}</h3>
+    <!-- Profile Header -->
+    <div class="row text-center mb-4">
+        <div class="col-12">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ page.image }}"
+                class="profile-image"
+                alt="{{ page.title }} profile image" />
 
-        <!-- Social -->
-        <ul class="list-inline list-unstyled">
-            {% if page.social.twitter %}
-                <li><a target="blank" href="{{ page.social.twitter }}"><i class="fab fa-twitter"></i></a></li>
-            {% endif %}
-            {% if page.social.linkedin %}
-                <li><a target="blank" href="{{ page.social.linkedin }}"><i class="fab fa-linkedin"></i></a></li>
-            {% endif %}
-            {% if page.social.github %}
-                <li><a target="blank" href="{{ page.social.github }}"><i class="fab fa-github"></i></a></li>
-            {% endif %}
-            {% if page.social.website %}
-                <li><a target="blank" href="{{ page.social.website }}"><i class="fas fa-globe"></i></a></li>
-            {% endif %}
-            {% if page.social.google-scholar %}
-                <li><a target="blank" href="{{ page.social.google-scholar }}"><i class="fab fa-google"></i></a></li>
-            {% endif %}
-            {% if page.social.orcid %}
-                <li><a target="blank" href="{{ page.social.orcid }}"><i class="fab fa-orcid"></i></a></li>
-            {% endif %}
-            {% if page.social.research-gate %}
-                <li><a target="blank" href="{{ page.social.research-gate }}"><i class="fab fa-researchgate"></i></a></li>
-            {% endif %}
-        </ul>
+            <h1 class="profile-name">{{ page.title }}</h1>
+            <h5 class="profile-role">{{ page.role }}</h5>
+
+            <!-- Social Links -->
+            <ul class="social-links">
+                {% if page.social.twitter %}
+                <li>
+                    <a target="_blank" href="{{ page.social.twitter }}" aria-label="Twitter">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                </li>
+                {% endif %}
+                {% if page.social.linkedin %}
+                <li>
+                    <a target="_blank" href="{{ page.social.linkedin }}" aria-label="LinkedIn">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                </li>
+                {% endif %}
+                {% if page.social.github %}
+                <li>
+                    <a target="_blank" href="{{ page.social.github }}" aria-label="GitHub">
+                        <i class="fab fa-github"></i>
+                    </a>
+                </li>
+                {% endif %}
+                {% if page.social.website %}
+                <li>
+                    <a target="_blank" href="{{ page.social.website }}" aria-label="Website">
+                        <i class="fas fa-globe"></i>
+                    </a>
+                </li>
+                {% endif %}
+                {% if page.social.google-scholar %}
+                <li>
+                    <a target="_blank" href="{{ page.social.google-scholar }}" aria-label="Google Scholar">
+                        <i class="fas fa-graduation-cap"></i>
+                    </a>
+                </li>
+                {% endif %}
+                {% if page.social.orcid %}
+                <li>
+                    <a target="_blank" href="{{ page.social.orcid }}" aria-label="ORCID">
+                        <i class="fab fa-orcid"></i>
+                    </a>
+                </li>
+                {% endif %}
+                {% if page.social.research-gate %}
+                <li>
+                    <a target="_blank" href="{{ page.social.research-gate }}" aria-label="ResearchGate">
+                        <i class="fab fa-researchgate"></i>
+                    </a>
+                </li>
+                {% endif %}
+            </ul>
+        </div>
     </div>
 
     <!-- Education -->
-    <div class="row">
-        <h3>Education</h3>
-        <ul class="list-unstyled">
-            {% for education in page.education %}
-                <li>{{ education }}</li>
-            {% endfor %}
-        </ul>
+    <div class="row mt-5">
+        <div class="col-12">
+            <h3 class="section-title">Education</h3>
+            <ul class="education-list">
+                {% for education in page.education %}
+                <li class="education-item">
+                    {{ education | markdownify | remove: '<p>' | remove: '</p>' }}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
     </div>
 
     <!-- Bio -->
-    <div class="row">
-        <h3>Bio</h3>
-        {{ content }}
+    <div class="row mt-5">
+        <div class="col-12">
+            <h3 class="section-title">Bio</h3>
+            <div class="bio-content">
+                {{ content }}
+            </div>
+        </div>
     </div>
 </div>
-

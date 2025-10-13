@@ -2,17 +2,19 @@
 layout: member
 category: scholar
 title: Kunal Kingkar
-image: placeholder.jpg
+image: kunalKingkar.jpeg
 role: MS Student
 permalink: 'team/kunalKingkar'
 social:
     linkedin: https://www.linkedin.com/in/kunal-kingkar-653337246
 education:
-  - "Indian Institute of Technology, Kharagpur
-    MS (by Research), Computer Science and Engineering"
+  - |
+    **Indian Institute of Technology, Kharagpur**
+    **MS (by Research), Computer Science and Engineering**
 
-  - "Gauhati University, Guwahati
-    Bachelor of Technology - BTech, Electronics and Communication Engineering"
+  - |
+    **Gauhati University, Guwahati**
+    **Bachelor of Technology - BTech, Electronics and Communication Engineering**
 
 ---
 

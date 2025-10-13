@@ -13,8 +13,15 @@ social:
   website: https://cse.iitkgp.ac.in/~pawang/
   orcid: https://orcid.org/0000-0002-9414-8166
 education:
-  - "Ph.D. (July 2007 - September 2011): Intelligent Systems Research Center, Faculty of Computing and Engineering, University of Ulster, NI, UK. Thesis: Analytic Knowledge Discovery Techniques for Ad-Hoc Information Retrieval and Text Summarization. Supervisors: Professor L. Behera and Prof. T. M. McGinnity"
-  - "B. Tech. (July 2003 - May 2007): Electrical Engineering, IIT Kanpur, Kanpur, U.P., India. CPI: 9.1/10 (overall), 9.8/10 (EE major)"
+  - |
+    **Ph.D.: Intelligent Systems Research Center, Faculty of Computing and Engineering, University of Ulster, NI, UK.**
+    - July 2007 - September 2011
+    - Thesis: Analytic Knowledge Discovery Techniques for Ad-Hoc Information Retrieval and Text Summarization. Supervisors: Professor L. Behera and Prof. T. M. McGinnity"
+  - |
+    **B. Tech. : Electrical Engineering, IIT Kanpur, Kanpur, U.P., India.**
+    - July 2003 - May 2007
+    - CPI: 9.1/10 (overall)
+    - 9.8/10 (EE major)"
 ---
 
 

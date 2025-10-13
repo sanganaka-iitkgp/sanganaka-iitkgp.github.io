@@ -9,13 +9,17 @@ social:
     linkedin: https://www.linkedin.com/in/pretam-ray
     google-scholar: https://scholar.google.com/citations?user=5eQgpf8AAAAJ&hl=en
 education:
-  - "M.Tech (Master’s degree), Machine Learning and Natural Language Processing, Jan 2023 – Jul 2026  
-    Indian Institute of Technology, Kharagpur  
-    Focus Areas: GPT-3, BERT, and Language Models"
+  - |
+    **MS by Research, Machine Learning and Natural Language Processing** 
+    **Indian Institute of Technology, Kharagpur**  
+    - Jan 2023 – Jul 2026 
+    - Focus Areas: GPT-3, BERT, and Language Models"
 
-  - "B.Tech, Computer Science, 2018 – 2022  
-    Indian Institute of Engineering Science and Technology (IIEST), Shibpur  
-    Grade: 8.31"
+  - |
+    **B.Tech, Computer Science**
+    **Indian Institute of Engineering Science and Technology (IIEST), Shibpur**  
+    - 2018 – 2022 
+    - Grade: 8.31"
 
 
 
