@@ -5,105 +5,174 @@ layout: default
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <style>
+  #homepage-container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 2vw;
+  }
+
   /* --- Carousel --- */
-#home-carousel {
-  width: 100%;
-  max-width: 800px;      /* container width */
-  border-radius: 12px;
-  overflow: hidden;
-  margin-bottom: 0;      /* we’ll put caption directly below */
-}
-
-#home-carousel .item img {
-  width: 100%;
-  height: auto;          /* keeps image aspect ratio */
-  display: block;
-  object-fit: contain;   /* fit fully, no crop */
-  transition: transform 0.5s ease;
-}
-
-#home-carousel .item.active img {
-  transform: scale(1.03);
-}
-
-/* --- Caption Box Below Carousel --- */
-#carousel-caption-box {
-  width: 100%;           /* match carousel width */
-  max-width: 800px;      /* same as carousel */
-  background: rgba(255,248,220,0.8);
-  padding: 15px 20px;
-  border-radius: 0 0 12px 12px;  /* only round bottom corners */
-  margin-bottom: 30px;
-  box-sizing: border-box;
-  text-align: center;
-}
-
-#carousel-caption-box h2 {
-  font-family: 'Inter', sans-serif;
-  font-weight: 700;
-  font-size: 1.8rem;
-}
-
-#carousel-caption-box p {
-  font-size: 1rem;
-  color: #333;
-}
-
-/* Controls */
-.left.carousel-control,
-.right.carousel-control {
-  width: 50px;
-}
-
-.left.carousel-control .fa-chevron-left,
-.right.carousel-control .fa-chevron-right {
-  color: #ffc107;
-  text-shadow: 0 2px 6px rgba(0,0,0,0.4);
-}
-
-/* Homepage content section */
-#homepage-content {
-  width: 95%;
-  background: #fffaf0;
-  padding: 40px 25px;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  margin-bottom: 30px;
-}
-
-/* Responsive adjustments */
-@media (max-width: 992px) {
-  #home-carousel, #carousel-caption-box {
-    width: 90%;
+  #home-carousel {
+    width: 50%;
+    max-width: 90vw;
+    margin: 0 auto 0 auto;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+    min-height: 50vh;
+    /* ensures the whole block has height even on small screens */
   }
 
-  #carousel-caption-box h2 {
-    font-size: 1.5rem;
+  #home-carousel .item {
+    box-sizing: border-box;
+    position: relative;
   }
 
-  #carousel-caption-box p {
-    font-size: 0.95rem;
+  #home-carousel .item img {
+    width: 100%;
+    max-height: 60vh;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+    transition: transform 0.5s ease;
   }
-}
 
-@media (max-width: 768px) {
-  #home-carousel, #carousel-caption-box {
+  #home-carousel .item.active img {
+    transform: scale(1.03);
+  }
+
+  /* Carousel Caption */
+  .carousel-caption.custom-caption {
+    position: static;
+    background: rgba(255, 248, 220, 0.8);
+    padding: 2vw 3vw;
+    text-align: center;
+    color: #333;
+    box-sizing: border-box;
     width: 100%;
   }
 
-  #carousel-caption-box h2 {
-    font-size: 1.2rem;
+  .carousel-caption.custom-caption h2 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 2vw;
+    margin-bottom: 1vw;
   }
 
-  #carousel-caption-box p {
-    font-size: 0.85rem;
+  .carousel-caption.custom-caption p {
+    font-size: 1.1vw;
+    line-height: 1.5;
+    word-wrap: break-word;
   }
 
+  /* Controls */
+  .left.carousel-control,
+  .right.carousel-control {
+    height: 50%;
+    width: 50px;
+  }
+
+  .left.carousel-control .fa-chevron-left,
+  .right.carousel-control .fa-chevron-right {
+    color: #ffc107;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+  }
+
+  /* Homepage content section */
   #homepage-content {
-    padding: 25px 15px;
+    width: 95%;
+    margin: 10vh auto 5vh auto;
+    padding: 4vw;
+    background: linear-gradient(135deg, #fffdf5 0%, #fdfaf4 100%);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
+    font-family: 'Inter', sans-serif;
+    line-height: 1.7;
+    font-size: 2rem;
+    color: #333;
+    transition: all 0.3s ease-in-out;
   }
-}
 
+  #homepage-content h1,
+  #homepage-content h2,
+  #homepage-content h3 {
+    font-weight: 700;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+  }
+
+  #homepage-content p {
+    margin-bottom: 1.25rem;
+    color: #444;
+  }
+
+  #homepage-content a {
+    color: #0066cc;
+    text-decoration: none;
+    border-bottom: 1px dashed #0066cc;
+    transition: color 0.3s, border-bottom 0.3s;
+  }
+
+  #homepage-content a:hover {
+    color: #003366;
+    border-bottom: 1px solid #003366;
+  }
+
+  /* Optional: Improve lists */
+  #homepage-content ul,
+  #homepage-content ol {
+    margin: 1rem 0 1.5rem 1.5rem;
+    padding-left: 1rem;
+  }
+
+  #homepage-content li {
+    margin-bottom: 0.75rem;
+  }
+
+  /* Responsive Typography & Widths */
+  @media (max-width: 992px) {
+    .carousel-caption.custom-caption h2 {
+      font-size: 4vw;
+    }
+
+    .carousel-caption.custom-caption p {
+      font-size: 2.5vw;
+    }
+
+    #home-carousel {
+      max-width: 95vw;
+    }
+  }
+
+  @media (max-width: 768px) {
+
+    #home-carousel {
+      width: 95%;
+      max-width: 95vw;
+    }
+
+    .carousel-caption.custom-caption h2 {
+      font-size: 5vw;
+    }
+
+    .carousel-caption.custom-caption p {
+      font-size: 3.5vw;
+    }
+
+    #homepage-content {
+      margin-top: 0;
+      padding: 6vw 5vw;
+      font-size: 1rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .carousel-caption.custom-caption p {
+      font-size: 4vw;
+    }
+  }
 </style>
 
 <div id="homepage-container">
@@ -122,21 +191,50 @@ layout: default
 
     <!-- Carousel Items -->
     <div class="carousel-inner">
+
       <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider/1.png" alt="Slide 1">
+        <div class="carousel-caption custom-caption">
+          <h2>The Sanganaka Lab Logo</h2>
+          <p>The logo of Sanganaka Labs represents a tree growing out of a book. The leaves resemble a brain made of
+            neuron connections representing our work on Neural Networks. The five symbols above the tree signify the
+            sound of Lord Shiva's Damru, showing our reverence toward him.</p>
+        </div>
       </div>
+
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider/5.jpg" alt="Slide 2">
+        <div class="carousel-caption custom-caption">
+          <h2>Sanskrit & AI Conference Poster</h2>
+          <p>Sanskrit & AI: Harnessing Computational Tools to enrich Bharat's language, culture, and heritage.</p>
+        </div>
       </div>
+
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider/3.jpeg" alt="Slide 3">
+        <div class="carousel-caption custom-caption">
+          <h2>A Moment to Be Proud Of</h2>
+          <p>Prof. Pawan Goyal being felicitated for his papers accepted at EMNLP.</p>
+        </div>
       </div>
+
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider/4.jpg" alt="Slide 4">
+        <div class="carousel-caption custom-caption">
+          <h2>CSSL Paper Presentation Day</h2>
+          <p>Prof. Pawan Goyal meeting with students at EMNLP-2024 conference.</p>
+        </div>
       </div>
+
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider/2.png" alt="Slide 5">
+        <div class="carousel-caption custom-caption">
+          <h2>Pretam Ray Presenting CSSL</h2>
+          <p>Pretam Ray, MS student, presenting his paper “CSSL: Contrastive Self-Supervised Learning for Dependency
+            Parsing” at EMNLP 2024.</p>
+        </div>
       </div>
+
     </div>
 
     <!-- Controls -->
@@ -148,12 +246,6 @@ layout: default
       <span class="fa-solid fa-chevron-right fa-2x" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
-  </div>
-
-  <!-- Caption Box Below Image -->
-  <div id="carousel-caption-box" class="text-center">
-    <h2>Slide Title Goes Here</h2>
-    <p>Caption or description of the slide appears here.</p>
   </div>
 
   <!-- Homepage Content -->
