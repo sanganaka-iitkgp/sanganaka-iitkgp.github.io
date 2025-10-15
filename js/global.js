@@ -9,6 +9,8 @@ function initNavbar() {
     });
   }
 }
+document.addEventListener("DOMContentLoaded", initNavbar);
+
 
 
 // Carousel Logic
@@ -29,7 +31,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active-dot";
-  setTimeout(showSlides, 4000); // Change slide every 4 sec
+  setTimeout(showSlides, 10000); // Change slide every 10 sec
 }
 
 function currentSlide(n) {
