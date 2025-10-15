@@ -3,235 +3,154 @@ layout: default
 ---
 
 <style>
-    .profile-container {
+    .member-page {
         max-width: 900px;
-        margin: 0 auto;
+        margin: 3rem auto;
+        padding: 2rem 1rem;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: #fefcf6;
     }
-    
-    .breadcrumb {
-        background: transparent;
-        padding: 0;
+
+    .member-header {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 2rem;
         margin-bottom: 2rem;
-        font-size: 2rem;
     }
-    
-    .breadcrumb-item a {
-        color: #6b7280;
-        text-decoration: none;
-        transition: color 0.2s;
-    }
-    
-    .breadcrumb-item a:hover {
-        color: #111827;
-    }
-    
-    .breadcrumb-item.active {
-        color: #111827;
-    }
-    
-    .profile-image {
+
+    .member-header img {
         width: 180px;
         height: 180px;
-        border-radius: 50%;
         object-fit: cover;
-        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-        margin-bottom: 1.5rem;
+        border-radius: 50%;
+        border: 3px solid #f2b95c;
     }
-    
-    .profile-name {
-        font-size: 5rem;
-        font-weight: 600;
-        color: #111827;
+
+    .member-header .member-info h1 {
+        font-size: 2.5rem;
+        color: #e66e00;
         margin-bottom: 0.5rem;
     }
-    
-    .profile-role {
-        font-size: 2.125rem;
-        color: #6b7280;
-        font-weight: 400;
-        margin-bottom: 1.5rem;
+
+    .member-header .member-info p.role {
+        font-size: 1.2rem;
+        color: #555;
+        margin-bottom: 1rem;
     }
-    
-    .social-links {
-        list-style: none;
-        padding: 0;
-        margin: 0;
+
+    .member-header .social-links {
         display: flex;
-        justify-content: center;
         gap: 1rem;
+        margin-top: 0.5rem;
     }
-    
-    .social-links a {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        width: 40px;
-        height: 40px;
-        border-radius: 50%;
-        background: #f9fafb;
-        color: #6b7280;
-        transition: all 0.2s;
-        text-decoration: none;
+
+    .member-header .social-links a {
+        color: #e66e00;
+        font-size: 1.4rem;
+        transition: color 0.2s ease;
     }
-    
-    .social-links a:hover {
-        background: #111827;
-        color: #ffffff;
-        transform: translateY(-2px);
+
+    .member-header .social-links a:hover {
+        color: #f2b95c;
     }
-    
-    .social-links .fa-twitter:hover { background: #1da1f2; color: #fff; }
-    .social-links .fa-linkedin:hover { background: #0077b5; color: #fff; }
-    .social-links .fa-github:hover { background: #333; color: #fff; }
-    .social-links .fa-globe:hover { background: #4f46e5; color: #fff; }
-    .social-links .fa-graduation-cap:hover { background: #4285f4; color: #fff; }
-    .social-links .fa-orcid:hover { background: #a6ce39; color: #fff; }
-    .social-links .fa-researchgate:hover { background: #00d0af; color: #fff; }
-    
-    .section-title {
-        font-size: 3.5rem;
-        font-weight: 600;
-        color: #111827;
-        margin-bottom: 1.5rem;
-        padding-bottom: 0.75rem;
-        border-bottom: 2px solid #f3f4f6;
+
+    .member-bio {
+        font-size: 1rem;
+        color: #333;
+        line-height: 1.6;
+        margin-bottom: 2rem;
     }
-    
-    .education-list {
-        list-style: none;
+
+    .member-education h2 {
         font-size: 1.5rem;
-        padding: 0;
+        color: #e66e00;
+        margin-bottom: 1rem;
+        border-bottom: 2px solid #f2b95c;
+        display: inline-block;
+        padding-bottom: 0.2rem;
+    }
+
+    .member-education ul {
+        list-style: disc inside;
+        padding-left: 0;
+    }
+
+    .member-education ul li {
+        margin-bottom: 1rem;
+    }
+
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .member-education ul.education-list {
+        list-style: none;
+        /* remove bullets */
+        padding-left: 0;
         margin: 0;
     }
-    
-    .education-item {
-        background: #ffffff;
-        border: 1px solid #e5e7eb;
-        border-radius: 8px;
-        padding: 1.5rem;
-        margin-bottom: 1rem;
-        transition: all 0.2s;
+
+    .member-education ul.education-list li {
+        padding: 1rem 0;
+        border-bottom: 1px solid #f2b95c;
+        /* stylish separator */
+        font-size: 1rem;
+        color: #333;
     }
-    
-    .education-item:hover {
-        border-color: #d1d5db;
-        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-    }
-    
-    .education-item:last-child {
-        margin-bottom: 0;
-    }
-    
-    .bio-content {
-        color: #374151;
-        line-height: 1.75;
-        font-size: 2rem;
-    }
-    
-    .bio-content p {
-        margin-bottom: 1rem;
+
+    .member-education ul.education-list li:last-child {
+        border-bottom: none;
+        /* remove line after last item */
     }
 </style>
 
-<div class="container py-5 profile-container">
-    <!-- Breadcrumb -->
-    <div class="row">
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.baseurl }}/team">Team</a></li>
-                <li class="breadcrumb-item text-capitalize"><a href="{{ site.baseurl }}/team#{{ page.category }}">{{
-                        page.category }}</a></li>
-                <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
-            </ol>
-        </nav>
-    </div>
+<div class="member-page">
+    <div class="member-header">
+        <img src="{{ site.baseurl }}/images/teams/{{ page.image }}" alt="{{ page.title }} - {{ page.role }}">
+        <div class="member-info">
+            <h1>{{ page.title }}</h1>
+            <p class="role">{{ page.role }}</p>
 
-    <!-- Profile Header -->
-    <div class="row text-center mb-4">
-        <div class="col-12">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ page.image }}"
-                class="profile-image"
-                alt="{{ page.title }} profile image" />
-
-            <h1 class="profile-name">{{ page.title }}</h1>
-            <h5 class="profile-role">{{ page.role }}</h5>
-
-            <!-- Social Links -->
-            <ul class="social-links">
-                {% if page.social.twitter %}
-                <li>
-                    <a target="_blank" href="{{ page.social.twitter }}" aria-label="Twitter">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-                </li>
-                {% endif %}
+            {% if page.social %}
+            <div class="social-links">
                 {% if page.social.linkedin %}
-                <li>
-                    <a target="_blank" href="{{ page.social.linkedin }}" aria-label="LinkedIn">
-                        <i class="fab fa-linkedin"></i>
-                    </a>
-                </li>
+                <a href="{{ page.social.linkedin }}" target="_blank" title="LinkedIn"><i
+                        class="fab fa-linkedin"></i></a>
                 {% endif %}
                 {% if page.social.github %}
-                <li>
-                    <a target="_blank" href="{{ page.social.github }}" aria-label="GitHub">
-                        <i class="fab fa-github"></i>
-                    </a>
-                </li>
+                <a href="{{ page.social.github }}" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
                 {% endif %}
                 {% if page.social.website %}
-                <li>
-                    <a target="_blank" href="{{ page.social.website }}" aria-label="Website">
-                        <i class="fas fa-globe"></i>
-                    </a>
-                </li>
+                <a href="{{ page.social.website }}" target="_blank" title="Website"><i class="fas fa-globe"></i></a>
                 {% endif %}
                 {% if page.social.google-scholar %}
-                <li>
-                    <a target="_blank" href="{{ page.social.google-scholar }}" aria-label="Google Scholar">
-                        <i class="fas fa-graduation-cap"></i>
-                    </a>
-                </li>
+                <a href="{{ page.social.google-scholar }}" target="_blank" title="Google Scholar"><i
+                        class="ai ai-google-scholar"></i></a>
                 {% endif %}
-                {% if page.social.orcid %}
-                <li>
-                    <a target="_blank" href="{{ page.social.orcid }}" aria-label="ORCID">
-                        <i class="fab fa-orcid"></i>
-                    </a>
-                </li>
-                {% endif %}
-                {% if page.social.research-gate %}
-                <li>
-                    <a target="_blank" href="{{ page.social.research-gate }}" aria-label="ResearchGate">
-                        <i class="fab fa-researchgate"></i>
-                    </a>
-                </li>
-                {% endif %}
-            </ul>
-        </div>
-    </div>
 
-    <!-- Education -->
-    <div class="row mt-5">
-        <div class="col-12">
-            <h3 class="section-title">Education</h3>
-            <ul class="education-list">
-                {% for education in page.education %}
-                <li class="education-item">
-                    {{ education | markdownify | remove: '<p>' | remove: '</p>' }}
-                </li>
-                {% endfor %}
-            </ul>
-        </div>
-    </div>
-
-    <!-- Bio -->
-    <div class="row mt-5">
-        <div class="col-12">
-            <h3 class="section-title">Bio</h3>
-            <div class="bio-content">
-                {{ content }}
             </div>
+            {% endif %}
         </div>
     </div>
+
+    <div class="member-bio">
+        {{ content | markdownify }}
+    </div>
+
+    {% if page.education %}
+    <div class="member-education">
+        <h2>Education</h2>
+        <ul class="education-list">
+            {% for edu in page.education %}
+            <li>{{ edu | markdownify }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
 </div>
+
+<!-- Font Awesome & Academic Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons/css/academicons.min.css">

@@ -1,0 +1,149 @@
+---
+layout: default
+title: Home
+---
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Publications | Sanganaka Lab</title>
+  <link rel="stylesheet" href="../css/global.css" />
+
+  <style>
+    /* Page Header */
+    .pub-header {
+      background: linear-gradient(90deg, #e66e00, #d64545, #b8860b);
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+
+    .pub-header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+
+    /* Publications Container */
+    .pub-container {
+      width: 100%;
+      text-align: center;
+      margin: 2rem auto;
+      padding: 0 1.2rem;
+    }
+
+    .pub-card {
+      background: #fff8f0;
+      width: 90%;
+      border: 1px solid #f0d7c2;
+      border-left: 6px solid #e66e00;
+      border-radius: 10px;
+      padding: 1.2rem 1.5rem;
+      margin: 1rem auto;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      text-align: left;
+    }
+
+    .pub-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    .pub-title {
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: #333;
+    }
+
+    .pub-title a {
+      color: #e66e00;
+      text-decoration: none;
+    }
+    .pub-title a:hover {
+      text-decoration: underline;
+    }
+
+    .pub-authors, .pub-journal, .pub-year, .pub-citations {
+      font-size: 0.9rem;
+      color: #5c3a00;
+      margin-bottom: 0.3rem;
+    }
+
+    @media (max-width: 600px) {
+      .pub-header h1 {
+        font-size: 2rem;
+      }
+      .pub-card {
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Header -->
+  <div id="header"></div>
+
+  <!-- Page Header -->
+  <div class="pub-header">
+    <h1>Publications</h1>
+  </div>
+
+  <!-- Publications Section -->
+  <div class="pub-container" id="pubContainer">
+    <p>Loading publications...</p>
+  </div>
+
+  <!-- Footer -->
+  <div id="footer"></div>
+
+  <!-- Global Script -->
+  <script src="../js/global.js"></script>
+
+  <script>
+    async function loadPublications() {
+      try {
+        const res = await fetch('../data/publication.json');
+        if (!res.ok) throw new Error('Failed to load publication.json');
+        const data = await res.json();
+
+        const container = document.getElementById('pubContainer');
+        container.innerHTML = '';
+
+        data.forEach(pub => {
+          const authors = pub.author.map(a => `${a.given} ${a.family}`).join(', ');
+          const year = pub.issued?.['date-parts']?.[0]?.[0] || '';
+          const citationCount = pub['citation-count'] || 0;
+
+          const card = document.createElement('div');
+          card.className = 'pub-card';
+          card.innerHTML = `
+            <div class="pub-title"><a href="${pub.link}" target="_blank">${pub.title}</a></div>
+            <div class="pub-authors"><strong>Authors:</strong> ${authors}</div>
+            <div class="pub-journal"><strong>Journal/Conference:</strong> ${pub['container-title'] || 'N/A'}</div>
+            <div class="pub-year"><strong>Year:</strong> ${year}</div>
+            <div class="pub-citations"><strong>Citations:</strong> ${citationCount}</div>
+          `;
+          container.appendChild(card);
+        });
+
+        if (!data.length) {
+          container.innerHTML = '<p>No publications available.</p>';
+        }
+      } catch (err) {
+        console.error(err);
+        document.getElementById('pubContainer').innerHTML =
+          '<p>Failed to load publications.</p>';
+      }
+    }
+
+    loadPublications();
+  </script>
+</body>
+</html>

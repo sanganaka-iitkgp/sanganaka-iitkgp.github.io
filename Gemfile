@@ -1,6 +1,4 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem "jekyll", ">= 3.6.3"
-gem "github-pages", group: :jekyll_plugins
-gem 'fiddle'
-
+gem "jekyll", "~> 4.4.1"
+gem "webrick", "~> 1.8"

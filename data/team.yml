@@ -1,0 +1,369 @@
+###########################################################################################
+
+# Faculty
+
+###########################################################################################
+
+
+- name: Pawan Goyal
+  category: professor
+  image: pawangoyal.png
+  role: Principal Investigator
+  permalink: /team/pawan-goyal/
+  social:
+    twitter: https://x.com/pawang_iitk
+    linkedin: https://www.linkedin.com/in/pawan-goyal-08a6001a
+    google_scholar: https://scholar.google.com/citations?hl=en&user=F14FHsIAAAAJ&view_op=list_works
+    github: https://github.com/pawangiitkgp
+    website: https://cse.iitkgp.ac.in/~pawang/
+    orcid: https://orcid.org/0000-0002-9414-8166
+  education:
+    - degree: Ph.D.
+      institution: Intelligent Systems Research Center, Faculty of Computing and Engineering, University of Ulster, NI, UK
+      duration: July 2007 - September 2011
+      details: Thesis: Analytic Knowledge Discovery Techniques for Ad-Hoc Information Retrieval and Text Summarization. Supervisors: Professor L. Behera and Prof. T. M. McGinnity
+    - degree: B. Tech., Electrical Engineering
+      institution: IIT Kanpur, Kanpur, U.P., India
+      duration: July 2003 - May 2007
+      grade: CPI 9.1/10 overall, 9.8/10 (EE major)
+  bio: |
+    I joined the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur as an Assistant Professor on July 30th, 2013. Prior to that, I was working at INRIA Paris-Rocquencourt as a postdoctoral fellow with Prof. Gérard Huet on The Sanskrit Heritage Site.
+
+    I did my B. Tech. in Electrical Engineering from Indian Institute of Technology, Kanpur. I received my Ph.D. from Intelligent Systems Research Centre, Faculty of Computing and Engineering, University of Ulster, UK. My PhD advisors were Prof. Laxmidhar Behera and Prof. T. M. McGinnity. The topic of my PhD dissertation was "Analytic Knowledge Discovery Techniques for Ad-Hoc Information Retrieval and Text Summarization".
+
+    My main research interests include Text Mining, Natural Language Processing, Information Retrieval, and Sanskrit Computational Linguistics.
+
+###########################################################################################
+
+# Alumni
+
+###########################################################################################
+
+- name: Amrith Krishna
+  category: alumni
+  image: AmrithKrishna.jpeg
+  role: Alumni Researcher
+  permalink: team/AmrithKrishna
+  social:
+    linkedin: https://in.linkedin.com/in/amrith-krishna
+    google_scholar: https://scholar.google.com/citations?user=45Ju3DgAAAAJ&hl=en
+    github: https://github.com/krishnamrith12
+  education:
+    - degree: Doctor of Philosophy - PhD, Computer Science
+      institution: Indian Institute of Technology Kharagpur
+      duration: 2015 – 2019
+      details: |
+        My research during PhD primarily focused on Natural Language Processing (NLP), specifically in the area of morphology and syntax. I defended my thesis on 22nd October 2019.
+        Thesis title: "Addressing language-specific characteristics for data-driven modelling of lexical, syntactic and prosodic tasks in Sanskrit"
+    - degree: Master of Technology - MTech, Computer Science
+      institution: Indian Institute of Technology Kharagpur
+      duration: 2013 – 2015
+      grade: CGPA 9.27/10
+    - degree: B.Tech
+      institution: Federal Institute of Science and Technology (FISAT), Hormis Nagar, Mookannoor
+      duration: 2008 – 2012
+      grade: First Class with Distinction
+      details: Affiliated to Mahatma Gandhi University, Kottayam
+  bio: |
+    I am an AI scientist, sovereign AI consultant, and entrepreneur. Currently, I am in my entrepreneurial mode as the founder of Skillzo, a GenAI driven AI companion platform. Previously, I was heading the Applied AI division for BharatGen, a Government of India-backed Generative AI initiative.
+
+    I have been fortunate to contribute to some of the recent progresses in AI while at Academia. These include my tenure at the University of Cambridge, UK and IT University of Copenhagen, as a postdoctoral researcher, and at IIT Kharagpur, India for my masters and PhD at the Computer Science (CSE) Department. At Cambridge, I was working with Dr Andreas Vlachos and Dr Sebastian Riedel on a project funded by Facebook research (now Meta). My PhD, supervised by Dr Pawan Goyal, was in Natural Language Processing, focusing specifically on Computational Sanskrit. 
+
+    I am quite passionate about anything that involves human-AI interaction, with an accomplished track record in the areas of Spoken and Natural Language Processing, Understanding and Generation. Specifically, my areas of expertise include Large Language Models (LLMs), Conversational systems, Spoken language understanding (SLU), information extraction, program synthesis, structured prediction, morphology, and syntax. 
+
+    I have a robust publication record, with over 30 papers garnering more than 400 citations, presented at esteemed venues including multiple CORE A/A* conferences. In addition to my research contributions, I actively contribute to the academic community. I currently serve as an action editor for the ACL rolling review (ARR) and have been a program committee member for prominent conferences such as ACL, EMNLP, among others, for the past 5 years. My commitment extends to reviewing for Computational Linguistics and LRE journals, and as an organiser for CODS-COMAD 2018, 2019 editions and for IndoML 2022 and 2023 editions. Complementing my research and academic engagements, I share my knowledge with a wide audience through a co-founded YouTube Channel dedicated to AI education, boasting over 100K+ subscribers.
+
+
+######################################################################################
+
+- name: Jivnesh Sandhan
+  category: alumni
+  image: JivneshSandhan.jpeg
+  role: Alumni Researcher
+  permalink: team/jivneshSandhan
+  social:
+    google_scholar: https://scholar.google.co.in/citations?user=R-W9HXYAAAAJ&hl=en
+    github: https://github.com/Jivnesh
+    website: https://jivnesh.github.io/
+  education:
+    - degree: Ph.D., Electrical Engineering
+      institution: IIT Kanpur
+      duration: 2023
+    - degree: M.S., Mathematics and Scientific Computing
+      institution: IIT Kanpur
+      duration: 2018
+    - degree: B.Tech., Mathematics and Scientific Computing
+      institution: IIT Kanpur
+      duration: 2017
+  bio: |
+    Dr. Jivnesh Sandhan is a postdoctoral researcher at the Graduate School of Informatics, Kyoto University. Prior to this, he served as a Visiting Assistant Professor in the Department of Computer Science at IIT Dharwad. He earned his Ph.D. from the Department of Electrical Engineering at IIT Kanpur in 2023, following a dual degree (B.Tech–M.Tech) in Mathematics and Scientific Computing from the same institution in 2018. He is a recipient of the prestigious Prime Minister's Research Fellowship (PMRF).
+
+    His current research focus is on understanding and modeling the behavioral consistency of Large Language Models (LLMs) through the lens of Computational Psychometrics. His broader research interests include LLM Jailbreaking and Interpretability, Small Language Models, Animal Language Modeling, and Sanskrit Computational Linguistics. He is particularly interested in how LLMs can be evaluated, aligned, and trusted in real-world, context-sensitive settings.
+
+
+###########################################################################################
+
+# Scholars
+
+###########################################################################################
+
+- name: Manoj Balaji J
+  category: scholar
+  image: manojbalajij.jpeg
+  role: PhD Student
+  permalink: team/manojbalajij
+  social:
+    linkedin: https://www.linkedin.com/in/manojbalaji1
+    google_scholar: https://scholar.google.com/citations?user=7jZFRqMAAAAJ&hl
+    github: https://github.com/manojbalaji1
+    website: https://www.jmanojbalaji.in/
+    orcid: https://orcid.org/0000-0001-6452-4768
+  education:
+    - degree: Ph.D., Computer Science
+      institution: Indian Institute of Technology, Kharagpur
+      details: |
+        Working on Sanskrit Computational Linguistics, focusing on Question Answering,
+        Cross-lingual Summarisation, and Information Retrieval.
+    - degree: M.Sc. in Financial Engineering
+      institution: WorldQuant University
+      duration: Jul 2020 – Jun 2022
+      grade: 94% (Excellent)
+      skills: Time Series Analysis, Portfolio Optimization, Data Analysis
+    - degree: M.Tech in Data Science and Engineering
+      institution: Birla Institute of Technology and Science, Pilani
+      duration: Oct 2019 – Mar 2022
+      grade: 8.53
+      skills: NLP, Stream Processing, Big Data Analytics, Machine Learning, Deep Learning
+    - degree: B.E. in Information Science
+      institution: UVCE (University Visvesvaraya College of Engineering)
+      duration: Aug 2014 – Jun 2018
+      grade: 77.25% (Distinction)
+      activities: IEEE UVCE, Music Band (8 GB RAM), Club Animeous, E-Cell
+    - degree: Schooling
+      institution: Kendriya Vidyalaya
+      duration: Apr 2002 – Jan 2014
+      grade: A++
+  bio: |
+    Welcome to my profile! As a lifelong learner, I have always been driven by my insatiable curiosity 
+    and passion for exploring new fields and ideas. From a young age, I have been a natural problem-solver, 
+    and this has led me to specialize in solving complex challenges related to mathematics and its various applications, 
+    particularly in the field of Natural Language Processing (NLP).
+
+    Currently, my research interests lie in the field of Sanskrit Computational Linguistics, where I am exploring 
+    the intersection between NLP and the Sanskrit language. My research is being done under the guidance of Dr. Pawan Goyal, 
+    and it involves developing new techniques for processing Sanskrit text using NLP models and algorithms. 
+    By leveraging the latest advancements in NLP and machine learning, I aim to make Sanskrit more accessible 
+    to a wider audience, and help preserve this ancient language for future generations.
+
+    In addition to my research interests, I have over 5 years of experience in Rakuten and Deloitte, 
+    where I have worked on various use cases ranging from catalog enrichment using machine learning to intelligent crawlers, 
+    marketing campaign optimization using machine learning, and scalable graph-based identity resolution. 
+    These diverse experiences have given me a unique perspective on problem-solving and have allowed me 
+    to connect various domains to bring value to businesses.
+
+    In my work, I follow a rigorous problem-solving cycle, where I work collaboratively with stakeholders 
+    to understand the problem, formulate hypotheses, brainstorm solutions, develop Proof of Concepts (PoCs), test, and deploy. 
+    This iterative approach has been particularly useful in my work on NLP, where I specialize in solving problems 
+    related to Causal Inference, Optimization, and other related areas.
+
+    Apart from my research and industry experience, I am also a music lover, with a particular interest 
+    in Indian Classical music, specifically Carnatic Music. I have a basic understanding of Carnatic Music 
+    and enjoy playing ragas on musical instruments such as the Keyboard. Some of my favorite ragas include 
+    Revati, Gaurimanohari, and Rusyaketupriya. If you share an interest in music or have any questions about my research, 
+    industry experience, or Sanskrit Computational Linguistics, please don't hesitate to reach out to me.
+
+    Thank you for taking the time to visit my profile, and I look forward to connecting with you 
+    and exploring exciting opportunities together!
+
+
+############################################################################################
+
+- name: Kunal Kingkar
+  category: scholar
+  image: kunalKingkar.jpeg
+  role: MS Student
+  permalink: team/kunalKingkar
+  social:
+    linkedin: https://www.linkedin.com/in/kunal-kingkar-653337246
+  education:
+    - degree: MS (by Research), Computer Science and Engineering
+      institution: Indian Institute of Technology, Kharagpur
+    - degree: Bachelor of Technology - BTech, Electronics and Communication Engineering
+      institution: Gauhati University, Guwahati
+  bio: |
+    I am currently pursuing an MS (by Research) in Computer Science and Engineering at the Indian Institute of Technology, Kharagpur. My academic focus includes cutting-edge areas such as Reinforcement Learning, Natural Language Processing (NLP), and Vision-and-Language Multimodal Learning.
+
+    Prior to this, I completed my Bachelor of Technology (BTech) in Electronics and Communication Engineering from Gauhati University, Guwahati, where I gained a strong foundation in technical principles and engineering practices.
+
+############################################################################################
+
+
+- name: Pretam Ray
+  category: scholar
+  image: preetamray.jpeg
+  role: MS Student
+  permalink: team/preetamray
+  social:
+    linkedin: https://www.linkedin.com/in/pretam-ray
+    google_scholar: https://scholar.google.com/citations?user=5eQgpf8AAAAJ&hl=en
+  education:
+    - degree: MS by Research, Machine Learning and Natural Language Processing
+      institution: Indian Institute of Technology, Kharagpur
+      duration: Jan 2023 – Jul 2026
+      details: Focus Areas: GPT-3, BERT, and Language Models
+    - degree: B.Tech, Computer Science
+      institution: Indian Institute of Engineering Science and Technology (IIEST), Shibpur
+      duration: 2018 – 2022
+      grade: 8.31
+  bio: |
+    I am currently pursuing my Master’s degree in Computer Science and Engineering at IIT Kharagpur, where I specialize in Sanskrit computational linguistics and natural language processing. My research focuses on developing advanced language models, self-supervised learning techniques, and low-resource machine translation methods tailored for morphologically rich languages.
+
+    I have contributed to several research projects and publications, including the creation of Vedavani, a benchmark corpus for automatic speech recognition on Vedic Sanskrit poetry, as well as innovations in dependency parsing and multilingual neural machine translation.
+
+############################################################################################
+
+- name: Pretam Ray
+  category: scholar
+  image: preetamray.jpeg
+  role: MS Student
+  permalink: team/preetamray
+  social:
+    linkedin: https://www.linkedin.com/in/pretam-ray
+    google_scholar: https://scholar.google.com/citations?user=5eQgpf8AAAAJ&hl=en
+  education:
+    - degree: MS by Research, Machine Learning and Natural Language Processing
+      institution: Indian Institute of Technology, Kharagpur
+      duration: Jan 2023 – Jul 2026
+      details: Focus Areas: GPT-3, BERT, and Language Models
+    - degree: B.Tech, Computer Science
+      institution: Indian Institute of Engineering Science and Technology (IIEST), Shibpur
+      duration: 2018 – 2022
+      grade: 8.31
+  bio: |
+    I am currently pursuing my Master’s degree in Computer Science and Engineering at IIT Kharagpur, where I specialize in Sanskrit computational linguistics and natural language processing. My research focuses on developing advanced language models, self-supervised learning techniques, and low-resource machine translation methods tailored for morphologically rich languages.
+
+    I have contributed to several research projects and publications, including the creation of Vedavani, a benchmark corpus for automatic speech recognition on Vedic Sanskrit poetry, as well as innovations in dependency parsing and multilingual neural machine translation.
+
+############################################################################################
+
+- name: Sujoy Sarkar
+  category: scholar
+  image: sujoysarkar.jpeg
+  role: Assistant Professor
+  permalink: team/sujoysarkar
+  social:
+    linkedin: https://www.linkedin.com/in/sujoy-sarkar-9b5321132/
+  education:
+    - degree: Ph.D., Computer Science (Pursuing)
+      institution: Indian Institute of Technology, Kharagpur
+    - degree: M.Tech., Computer Science
+      institution: University of Hyderabad
+  bio: |
+    I am an Assistant Professor in the Department of Computer Science and Engineering at Rajiv Gandhi University of Knowledge Technologies (RGUKT), Basar, where I have been serving since 2016. My research interests include Natural Language Processing, Information Retrieval, Low-Resource Languages, and Computational Linguistics.
+
+###########################################################################################
+
+# Staffs
+
+###########################################################################################
+
+- name: Kartikeya Singh
+  category: staff
+  image: KartikeyaSingh.jpeg
+  role: Junior Project Engineer
+  permalink: team/kartikeyaSingh
+  social:
+    linkedin: https://www.linkedin.com/in/kartikeyavi/
+    website: https://kartikeyavi.my.canva.site/
+  education:
+    - degree: Postgraduate Diploma in Big Data and Machine Learning
+      institution: Centre for Development of Advanced Computing (C-DAC)
+      duration: Mar 2023 - Aug 2023
+      grade: 73.88%
+      details: |
+        Activities and Societies: Table Tennis Club
+        Skills: Deep Learning, R (Programming Language), SQL, Data Cleaning, Big Data, Data Engineering, Apache Kafka, Machine Learning, Data Analytics, Apache Spark, Python (Programming Language), Linux
+    - degree: Bachelor of Technology - BTech in Information Technology
+      institution: Kalinga Institute of Industrial Technology, Bhubaneswar
+      duration: Jun 2019 - Jun 2023
+      grade: 8.04
+      details: |
+        Skills: C (Programming Language), SQL, C++, Computer Science
+    - degree: High School (Classes 8th to 12th)
+      institution: Delhi Public School, Jodhpur
+      duration: 2015 - 2019
+      details: Activities and Societies: Basketball Club
+  bio: |
+    I am an Artificial Intelligence researcher fueled by a lifelong passion for data and complex equations. My fascination with Machine Learning (ML) began early, leading me to bridge analytical instincts with real-world applications. Going through a wide variety of experiences, I gained a versatile AI skillset which led me to join the Indian Institute of Technology, Kharagpur as a Project Engineer.
+
+    I thrive on innovation and uncovering new ideas to solve problems creatively. I’m now focused on studying ML algorithms through their mathematical roots and original papers. My research interests include Machine Learning, Computer Vision, Natural Language Processing, and Model Optimization. Driven to push ML boundaries, I am excited to explore theoretical foundations and apply my analytical skills in a research setting.
+
+############################################################################################
+
+
+- name: Shivraj Anand
+  category: staff
+  image: shivrajanand.jpg
+  role: Language Analyst
+  permalink: team/shivrajanand
+  social:
+    linkedin: https://www.linkedin.com/in/shivrajanand
+    github: https://www.github.com/shivrajanand
+    website: https://www.shivrajanand.com
+  education:
+    - degree: B.Tech in Computer Science and Engineering
+      institution: B.P.M.C.E., Madhepura
+      duration: 2021 - 2025
+      cgpa: 8.80/10
+      details: |
+        Branch Topper in all academic years
+        GATE'24 CS Qualified, GATE'25 CS and DA Qualified
+        Relevant Subjects: ENGG. Maths, DSA, OS, COA, DL, DAA, AI, DBMS, TOC, CD, ML, Cryptography, Python, C, C++, Java
+    - degree: Higher Secondary Certificate (12th Grade)
+      institution: Kendriya Vidyalaya, Jamalpur
+      duration: 2018 - 2020
+      percentage: 94.4%
+      details: |
+        2nd rank in school in 12th board exams
+        Subjects: Physics, Chemistry, Mathematics, Computer Science
+    - degree: Secondary Certificate (10th Grade)
+      institution: Kendriya Vidyalaya, Jamalpur
+      duration: 2017 - 2018
+      percentage: 90%
+      details: |
+        2nd rank in school board exams
+        Subjects: General Science, Math, English, Social Science, Hindi
+  bio: |
+    I'm currently working as a Language Analyst (Researcher) at IIT Kharagpur under the BHASHINI-NLTM project funded by MeitY.
+
+    My research focuses on interpretable multilingual translation using Sanskrit-based interlingua representations. I hold a B.Tech. in Computer Science and Engineering (2021–2025) with a CGPA of 8.8/10.
+
+    I've qualified GATE CS '24, '25 and DA '25 and bring hands-on experience in Python, machine learning, NLP, and language modeling, backed by 15+ end-to-end projects.
+
+
+############################################################################################
+
+- name: Shubham Das
+  category: staff
+  image: shubhamdas.png
+  role: Junior Research Fellow
+  permalink: team/shubhamdas
+  social:
+    linkedin: https://www.linkedin.com/in/shubham-das-coder
+    github: https://github.com/Shubham-Das-Coder
+    website: https://shubham-das-coder.github.io/
+  education:
+    - degree: B.Tech in CSE (AI & ML)
+      institution: Haldia Institute of Technology
+      duration: 2021–2025
+      cgpa: 8.94
+    - degree: CBSE Class 12
+      institution: BNR Excellence Academy
+      duration: 2019–2021
+      percentage: 74
+    - degree: ICSE Class 10
+      institution: S.E. Rly Mixed H.S School
+      duration: 2017–2019
+      percentage: 91.20
+  bio: |
+    I am working as a Junior Research Fellow at IIT Kharagpur, and currently working on text-to-text translation under the supervision of Prof. Pawan Goyal.
