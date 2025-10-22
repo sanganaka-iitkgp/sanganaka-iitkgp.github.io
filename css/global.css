@@ -1,8 +1,11 @@
 /* --- Global Styles --- */
 
-
 body {
-   font-family: 'Cinzel', serif;
+  /* font-family: "Cinzel", serif;
+  font-family: "Lato", sans-serif;
+  font-family: "Muli", sans-serif;
+  font-family: "Nunito", sans-serif; */
+  font-family: "Fira Sans", sans-serif;
   margin: 0;
   padding: 0;
   background: #fff5f0;
@@ -37,7 +40,7 @@ body {
 
 .navbar .nav-links a:hover {
   text-decoration: underline;
-  color: #fff3e0;  /* Slightly lighter hover color */
+  color: #fff3e0; /* Slightly lighter hover color */
 }
 
 .hamburger {
@@ -45,11 +48,11 @@ body {
   font-size: 2rem;
   cursor: pointer;
   color: white;
-  z-index: 101;  /* Ensure it's above the menu */
+  z-index: 101; /* Ensure it's above the menu */
 }
 
 .hamburger.open {
-  color: #fff3e0;  /* Change color when active */
+  color: #fff3e0; /* Change color when active */
 }
 
 /* --- Responsive Navbar --- */
@@ -82,7 +85,12 @@ body {
   }
 
   .navbar .nav-links a:hover {
-    background-color: rgba(255, 255, 255, 0.2); /* Adding subtle background hover effect */
+    background-color: rgba(
+      255,
+      255,
+      255,
+      0.2
+    ); /* Adding subtle background hover effect */
   }
 
   .hamburger {
@@ -117,27 +125,32 @@ body {
   }
 }
 
-
-
-
-/* --- Footer --- */
+/* --- Base Footer --- */
 .footer {
-  background: linear-gradient(90deg, #ff4e00, #ff9a00);
-  color: white;
-  padding: 2rem 1rem 1rem;
+  background: linear-gradient(
+    90deg,
+    #ff4e00,
+    #ff9a00
+  ); /* Gradient background */
+  color: #ffffff;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  padding: 2rem 1rem 1rem; /* Adjusted padding */
   text-align: center;
   margin-top: 2rem;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
-  box-shadow: 0 -4px 20px rgba(255, 80, 0, 0.2);
+  box-shadow: 0 -4px 20px rgba(255, 80, 0, 0.2); /* Box shadow for modern look */
+  border-top: 3px solid #f59e0b; /* Bright orange accent */
 }
 
+/* --- Layout --- */
 .footer-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
   align-items: flex-start;
-  gap: 2rem;
+  gap: 2rem; /* Ensures even spacing between sections */
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -147,24 +160,84 @@ body {
   min-width: 250px;
 }
 
-.footer-section h2, .footer-section h3 {
-  color: #fff9e6;
+.footer-section h2,
+.footer-section h3 {
+  color: #ffffff; /* Soft light color for headers */
+  font-weight: 600;
   margin-bottom: 0.5rem;
 }
 
-.footer-section a {
-  color: #fff9e6;
-  text-decoration: none;
+/* --- Text and Links --- */
+.footer-section p,
+.footer-section ul {
+  color: #ffffff;
+  margin: 0;
 }
 
-.footer-section a:hover {
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 0.4rem;
+}
+
+.footer a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  font-size: 1rem; /* Consistent font size for links */
+}
+
+.footer a:hover {
+  color: #ffffff; /* Hover effect for links */
   text-decoration: underline;
 }
 
+/* --- Footer Bottom --- */
 .footer-bottom {
+  text-align: center;
+  color: #3d3c3c;
   border-top: 1px solid rgba(255, 255, 255, 0.3);
   margin-top: 1.5rem;
   padding-top: 1rem;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
+/* --- Responsive Adjustments --- */
+@media (max-width: 768px) {
+  .footer {
+    padding: 1.5rem 1rem; /* Reduced padding for smaller screens */
+  }
+
+  .footer-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem;
+  }
+
+  .footer-section {
+    flex: 1 1 100%;
+    min-width: unset;
+  }
+
+  .footer-section p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer {
+    font-size: 0.85rem;
+  }
+
+  .footer-section h2 {
+    font-size: 1.1rem;
+  }
+
+  .footer-section h3 {
+    font-size: 1rem;
+  }
+}

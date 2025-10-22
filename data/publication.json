@@ -1,6 +1,79 @@
 [
     {
+        "title": "Pre-annotation based approach for development of a Sanskrit named entity recognition dataset",
+        "container-title": "Proceedings of the Computational Sanskrit & Digital Humanities: Selected papers presented at the 18th World Sanskrit Conference, 59-70, 2023",
+        "author": [
+            {
+                "family": "Sarkar",
+                "given": "Sujoy"
+            },
+            {
+                "family": "Krishna",
+                "given": "Amrith"
+            },
+            {
+                "family": "Goyal",
+                "given": "Pawan"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        },
+        "DOI": null,
+        "abstract": null,
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SSIMTwgAAAAJ&citation_for_view=SSIMTwgAAAAJ:u5HHmVD_uO8C",
+        "citation-count": 0,
+        "type": "inproceedings"
+    },
+    {
+        "title": "Mahānama: A Unique Testbed for Literary Entity Discovery and Linking",
+        "container-title": "arXiv preprint, 2025",
+        "author": [
+            {
+                "family": "Sarkar",
+                "given": "Sujoy"
+            },
+            {
+                "family": "Sarkar",
+                "given": "Gourav"
+            },
+            {
+                "family": "Jagadeeshan",
+                "given": "Manoj Balaji"
+            },
+            {
+                "family": "Sandhan",
+                "given": "Jivnesh"
+            },
+            {
+                "family": "Krishna",
+                "given": "Amrith"
+            },
+            {
+                "family": "Goyal",
+                "given": "Pawan"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        },
+        "DOI": null,
+        "abstract": null,
+        "link": "https://arxiv.org/abs/2509.19844",
+        "citation-count": 0,
+        "type": "misc"
+    },
+    {
         "title": "From Plain Text to Poetic Form: Generating Metrically-Constrained Sanskrit Verses",
+        "container-title": "arXiv preprint, 2025",
         "author": [
             {
                 "family": "Jagadeeshan",
@@ -50,15 +123,15 @@
                 ]
             ]
         },
-        "eprint": "2506.00815",
-        "archivePrefix": "arXiv",
-        "primaryClass": "cs.CL",
-        "url": "https://arxiv.org/abs/2506.00815",
+        "DOI": null,
+        "abstract": null,
+        "link": "https://arxiv.org/abs/2506.00815",
         "citation-count": 0,
         "type": "misc"
     },
     {
         "title": "REFINE-AF: A Task-Agnostic Framework to Align Language Models via Self-Generated Instructions using Reinforcement Learning from Automated Feedback",
+        "container-title": "arXiv preprint, 2025",
         "author": [
             {
                 "family": "Roy",
@@ -88,15 +161,15 @@
                 ]
             ]
         },
-        "eprint": "2505.06548",
-        "archivePrefix": "arXiv",
-        "primaryClass": "cs.CL",
-        "url": "https://arxiv.org/abs/2505.06548",
+        "DOI": null,
+        "abstract": null,
+        "link": "https://arxiv.org/abs/2505.06548",
         "citation-count": 0,
         "type": "misc"
     },
     {
         "title": "Anveshana: A New Benchmark Dataset for Cross-Lingual Information Retrieval On English Queries and Sanskrit Documents",
+        "container-title": "arXiv preprint, 2025",
         "author": [
             {
                 "family": "Jagadeeshan",
@@ -118,15 +191,15 @@
                 ]
             ]
         },
-        "eprint": "2505.19494",
-        "archivePrefix": "arXiv",
-        "primaryClass": "cs.CL",
-        "url": "https://arxiv.org/abs/2505.19494",
+        "DOI": null,
+        "abstract": null,
+        "link": "https://arxiv.org/abs/2505.19494",
         "citation-count": 0,
         "type": "misc"
     },
     {
         "title": "Vedavani: A Benchmark Corpus for ASR on Vedic Sanskrit Poetry",
+        "container-title": "arXiv preprint, 2025",
         "author": [
             {
                 "family": "Kumar",
@@ -160,10 +233,9 @@
                 ]
             ]
         },
-        "eprint": "2506.00145",
-        "archivePrefix": "arXiv",
-        "primaryClass": "cs.CL",
-        "url": "https://arxiv.org/abs/2506.00145",
+        "DOI": null,
+        "abstract": null,
+        "link": "https://arxiv.org/abs/2506.00145",
         "citation-count": 0,
         "type": "misc"
     },
