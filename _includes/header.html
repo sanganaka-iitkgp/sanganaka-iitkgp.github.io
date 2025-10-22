@@ -1,18 +1,33 @@
+<head>
+  <!-- Font Awesome CDN for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
 <style>
   .logo a {
     color: white;
     text-decoration: none;
+  }
+
+  /* Optional: Styling icons inside navbar */
+  .nav-links a i {
+    margin-right: 0.5rem; /* Adds space between icon and text */
   }
 </style>
 
 <header class="navbar">
   <div class="logo"><a href="../index.html">Sanganaka</a></div>
   <nav class="nav-links" id="nav-links">
-    <a href="/">Home</a>
-    <a href="../html/research.html">Research</a>
-    <a href="../html/publications.html">Publications</a>
-    <a href="../html/news.html">News</a>
-    <a href="/team/">Team</a>
+    <a href="/"><i class="fas fa-home"></i> Home</a>
+    <a href="../html/research.html"><i class="fas fa-flask"></i> Research</a>
+    <a href="../html/publications.html"><i class="fas fa-book"></i> Publications</a>
+    <a href="../html/news.html"><i class="fas fa-newspaper"></i> News</a>
+    <a href="/team/"><i class="fas fa-users"></i> Team</a>
   </nav>
-  <div class="hamburger" id="hamburger">&#9776;</div>
+  <div class="hamburger" id="hamburger">
+    <span class="bar"></span>
+    <span class="bar"></span>
+    <span class="bar"></span>
+  </div>
 </header>
+

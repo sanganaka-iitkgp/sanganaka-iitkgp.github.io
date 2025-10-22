@@ -32,11 +32,12 @@ body {
   text-decoration: none;
   margin-left: 1.5rem;
   font-weight: 500;
-  transition: 0.3s;
+  transition: color 0.3s, text-decoration 0.3s;
 }
 
 .navbar .nav-links a:hover {
   text-decoration: underline;
+  color: #fff3e0;  /* Slightly lighter hover color */
 }
 
 .hamburger {
@@ -44,6 +45,11 @@ body {
   font-size: 2rem;
   cursor: pointer;
   color: white;
+  z-index: 101;  /* Ensure it's above the menu */
+}
+
+.hamburger.open {
+  color: #fff3e0;  /* Change color when active */
 }
 
 /* --- Responsive Navbar --- */
@@ -54,18 +60,64 @@ body {
     width: 100%;
     background: linear-gradient(90deg, #ff4e00, #ff9a00);
     position: absolute;
-    top: 60px;
+    top: 60px; /* Adjusted to align below the navbar */
     left: 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    transition: transform 0.3s ease-in-out;
+    transform: translateY(-100%);
+    border-bottom-left-radius: 10px; /* Rounded corners for mobile dropdown */
+    border-bottom-right-radius: 10px; /* Rounded corners for mobile dropdown */
   }
 
   .navbar .nav-links.active {
     display: flex;
+    transform: translateY(0);
+  }
+
+  .navbar .nav-links a {
+    padding: 1rem 0rem; /* Adding padding to make links bigger and more clickable */
+    font-size: 1.2rem; /* Slightly larger text for readability */
+    transition: background-color 0.3s;
+  }
+
+  .navbar .nav-links a:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Adding subtle background hover effect */
   }
 
   .hamburger {
     display: block;
+    z-index: 102; /* Ensure the hamburger icon is above everything else */
+  }
+
+  .hamburger.open .bar {
+    background-color: #fff3e0; /* Light color when hamburger is open */
+  }
+
+  /* Styling for the hamburger icon (3 lines) */
+  .hamburger .bar {
+    display: block;
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    margin: 6px auto;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+
+  .hamburger.open .bar:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+
+  .hamburger.open .bar:nth-child(2) {
+    opacity: 0;
+  }
+
+  .hamburger.open .bar:nth-child(3) {
+    transform: rotate(-45deg) translate(5px, -5px);
   }
 }
+
+
 
 
 /* --- Footer --- */
