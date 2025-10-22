@@ -3,7 +3,7 @@ layout: member
 category: professor
 title: Pawan Goyal
 image: pawangoyal.png
-role: Principal Investigator
+role: Professor
 permalink: /team/pawan-goyal/
 social:
   twitter: https://x.com/pawang_iitk

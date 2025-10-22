@@ -6,6 +6,7 @@ title: Publications
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -28,12 +29,30 @@ title: Publications
       letter-spacing: 1px;
     }
 
+    /* Minimal CSS for pub-header p and a */
+    .pub-header p {
+      font-size: 1rem;
+      color: #fff;
+      margin: 0.5rem 0;
+    }
+
+    .pub-header a {
+      color: #f2ff00;
+      text-decoration: none;
+    }
+
+    .pub-header a:hover {
+      text-decoration: underline;
+    }
+
+
     /* Publications Container */
     .pub-container {
       width: 100%;
       text-align: center;
       margin: 2rem auto;
       padding: 0 1.2rem;
+      box-sizing: border-box;
     }
 
     .pub-card {
@@ -44,14 +63,15 @@ title: Publications
       border-radius: 10px;
       padding: 1.2rem 1.5rem;
       margin: 1rem auto;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
       transition: transform 0.2s ease, box-shadow 0.2s ease;
       text-align: left;
+      box-sizing: border-box;
     }
 
     .pub-card:hover {
       transform: translateY(-2px);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     }
 
     .pub-title {
@@ -65,22 +85,33 @@ title: Publications
       color: #e66e00;
       text-decoration: none;
     }
+
     .pub-title a:hover {
       text-decoration: underline;
     }
 
-    .pub-authors, .pub-journal, .pub-year, .pub-citations {
+    .pub-authors,
+    .pub-journal,
+    .pub-year,
+    .pub-citations {
       font-size: 0.9rem;
       color: #5c3a00;
       margin-bottom: 0.3rem;
     }
 
+    /* Mobile View Adjustments */
     @media (max-width: 600px) {
       .pub-header h1 {
         font-size: 2rem;
       }
+
       .pub-card {
         padding: 1rem;
+        width: 95%;
+        /* 95% width on mobile */
+        max-width: 100%;
+        /* Remove any max-width restriction on mobile */
+        margin: 1rem auto;
       }
     }
   </style>
@@ -93,6 +124,8 @@ title: Publications
   <!-- Page Header -->
   <div class="pub-header">
     <h1>Publications</h1>
+    <p>To see all papers by Dr. Pawan Goyal visit his <a
+        href="https://cse.iitkgp.ac.in/~pawang/Publications.html">publication page.</a></p>
   </div>
 
   <!-- Publications Section -->
@@ -113,6 +146,13 @@ title: Publications
         if (!res.ok) throw new Error('Failed to load publication.json');
         const data = await res.json();
 
+        // Sort publications by year (descending order)
+        data.sort((a, b) => {
+          const yearA = a.issued?.['date-parts']?.[0]?.[0] || 0;
+          const yearB = b.issued?.['date-parts']?.[0]?.[0] || 0;
+          return yearB - yearA;  // Sort by year, descending
+        });
+
         const container = document.getElementById('pubContainer');
         container.innerHTML = '';
 
@@ -124,12 +164,12 @@ title: Publications
           const card = document.createElement('div');
           card.className = 'pub-card';
           card.innerHTML = `
-            <div class="pub-title"><a href="${pub.link}" target="_blank">${pub.title}</a></div>
-            <div class="pub-authors"><strong>Authors:</strong> ${authors}</div>
-            <div class="pub-journal"><strong>Journal/Conference:</strong> ${pub['container-title'] || 'N/A'}</div>
-            <div class="pub-year"><strong>Year:</strong> ${year}</div>
-            <div class="pub-citations"><strong>Citations:</strong> ${citationCount}</div>
-          `;
+          <div class="pub-title"><a href="${pub.link}" target="_blank">${pub.title}</a></div>
+          <div class="pub-authors"><strong>Authors:</strong> ${authors}</div>
+          <div class="pub-journal"><strong>Journal/Conference:</strong> ${pub['container-title'] || 'N/A'}</div>
+          <div class="pub-year"><strong>Year:</strong> ${year}</div>
+          <div class="pub-citations"><strong>Citations:</strong> ${citationCount}</div>
+        `;
           container.appendChild(card);
         });
 
@@ -145,5 +185,7 @@ title: Publications
 
     loadPublications();
   </script>
+
 </body>
+
 </html>
