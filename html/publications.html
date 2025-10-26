@@ -99,6 +99,22 @@ title: Publications
       margin-bottom: 0.3rem;
     }
 
+    .abstract-btn {
+      background: #e66e00;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      padding: 0.4rem 0.8rem;
+      cursor: pointer;
+      font-size: 0.9rem;
+      transition: background 0.2s ease;
+    }
+
+    .abstract-btn:hover {
+      background: #c35600;
+    }
+
+
     /* Mobile View Adjustments */
     @media (max-width: 600px) {
       .pub-header h1 {
@@ -142,40 +158,77 @@ title: Publications
   <script>
     async function loadPublications() {
       try {
-        const res = await fetch('../data/publication.json');
-        if (!res.ok) throw new Error('Failed to load publication.json');
-        const data = await res.json();
+        const res = await fetch('../data/publications.csv');
+        if (!res.ok) throw new Error('Failed to load publications.csv');
+        const text = await res.text();
 
-        // Sort publications by year (descending order)
-        data.sort((a, b) => {
-          const yearA = a.issued?.['date-parts']?.[0]?.[0] || 0;
-          const yearB = b.issued?.['date-parts']?.[0]?.[0] || 0;
-          return yearB - yearA;  // Sort by year, descending
+        // --- CSV Parsing ---
+        const lines = text.trim().split('\n');
+        const headers = lines[0].split(',').map(h => h.trim());
+        const data = lines.slice(1).map(line => {
+          const values = line.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/).map(v => v.replace(/^"|"$/g, '').trim());
+          const obj = {};
+          headers.forEach((h, i) => obj[h] = values[i] || '');
+          return obj;
         });
+
+        // --- Parse issued date safely ---
+        function parseDate(dateStr) {
+          if (!dateStr) return new Date(0);
+          const parts = dateStr.split(/[\/\-]/).map(p => parseInt(p) || 1);
+          const [y, m = 1, d = 1] = parts;
+          return new Date(y, m - 1, d);
+        }
+
+        // --- Sort by issued descending ---
+        data.sort((a, b) => parseDate(b.issued) - parseDate(a.issued));
 
         const container = document.getElementById('pubContainer');
         container.innerHTML = '';
 
-        data.forEach(pub => {
-          const authors = pub.author.map(a => `${a.given} ${a.family}`).join(', ');
-          const year = pub.issued?.['date-parts']?.[0]?.[0] || '';
-          const citationCount = pub['citation-count'] || 0;
+        if (!data.length) {
+          container.innerHTML = '<p>No publications available.</p>';
+          return;
+        }
 
+        data.forEach(pub => {
           const card = document.createElement('div');
           card.className = 'pub-card';
+
+          const issuedDate = pub.issued || 'N/A';
+          const authorList = pub.author || 'Unknown';
+          const pubType = pub['type-name'] || pub.type || 'N/A';
+          const abstractExists = pub.abstract && pub.abstract.trim() !== '';
+
+          // --- Build card content ---
           card.innerHTML = `
-          <div class="pub-title"><a href="${pub.link}" target="_blank">${pub.title}</a></div>
-          <div class="pub-authors"><strong>Authors:</strong> ${authors}</div>
-          <div class="pub-journal"><strong>Journal/Conference:</strong> ${pub['container-title'] || 'N/A'}</div>
-          <div class="pub-year"><strong>Year:</strong> ${year}</div>
-          <!-- <div class="pub-citations"><strong>Citations:</strong> ${citationCount}</div> -->
+          <div class="pub-title">
+            <a href="${pub.link || '#'}" target="_blank">${pub.title || 'Untitled'}</a>
+          </div>
+          <div class="pub-authors"><strong>Authors:</strong> ${authorList}</div>
+          <div class="pub-journal"><strong>Type:</strong> ${pubType}</div>
+          <div class="pub-year"><strong>Issued:</strong> ${issuedDate}</div>
+          ${abstractExists ? `
+            <button class="abstract-btn">Show Abstract</button>
+            <div class="pub-abstract" style="display:none; margin-top:0.6rem; color:#4a2a00;">
+              <strong>Abstract:</strong> ${pub.abstract}
+            </div>
+          ` : ''}
         `;
+
           container.appendChild(card);
         });
 
-        if (!data.length) {
-          container.innerHTML = '<p>No publications available.</p>';
-        }
+        // --- Add toggle functionality for abstracts ---
+        container.querySelectorAll('.abstract-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const abstractDiv = btn.nextElementSibling;
+            const isVisible = abstractDiv.style.display === 'block';
+            abstractDiv.style.display = isVisible ? 'none' : 'block';
+            btn.textContent = isVisible ? 'Show Abstract' : 'Hide Abstract';
+          });
+        });
+
       } catch (err) {
         console.error(err);
         document.getElementById('pubContainer').innerHTML =
@@ -185,6 +238,7 @@ title: Publications
 
     loadPublications();
   </script>
+
 
 </body>
 
