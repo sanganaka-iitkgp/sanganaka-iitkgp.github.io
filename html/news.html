@@ -15,99 +15,122 @@ title: News
 
   <style>
     /* --- Page Header --- */
-/* --- Page Header --- */
-.news-header {
-  background: linear-gradient(90deg, #e66e00, #d64545, #b8860b);
-  color: white;
-  text-align: center;
-  padding: 2rem 1rem;
-}
+    .news-header {
+      background: linear-gradient(90deg, #e66e00, #d64545, #b8860b);
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
 
-.news-header h1 {
-  font-size: 2.5rem;
-  margin: 0;
-  font-weight: 700;
-  letter-spacing: 1px;
-}
+    .news-header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
 
-/* --- News Container --- */
-.news-container {
-  width: 100%;
-  text-align: center;
-  margin: 2rem auto;
-  padding: 0 1.2rem;
-  box-sizing: border-box; /* Prevent overflow due to padding */
-}
+    /* --- News Container --- */
+    .news-container {
+      width: 100%;
+      /* Limit container width */
+      margin: 2rem auto;
+      padding: 0 1.2rem;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      /* Left-align cards */
+    }
 
-.news-card {
-  background: #fff8f0;
-  width: 90%;
-  border: 1px solid #f0d7c2;
-  border-left: 6px solid #e66e00;
-  border-radius: 10px;
-  padding: 1.2rem 1.5rem;
-  margin: 1rem auto;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  box-sizing: border-box; /* Prevent overflow */
-  word-wrap: break-word; /* Ensure long words wrap */
-  overflow-wrap: break-word; /* Prevent long words from overflowing */
-  word-break: break-word; /* Break long words at any point to fit */
-}
+    /* --- News Card --- */
+    .news-card {
+      background: #fff8f0;
+      width: 100%;
+      border: 1px solid #f0d7c2;
+      border-left: 6px solid #e66e00;
+      border-radius: 10px;
+      padding: 1.2rem 1.5rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      box-sizing: border-box;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      word-break: break-word;
+    }
 
-.news-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
+    .news-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
 
-.news-date {
-  font-size: 0.9rem;
-  color: #a55b00;
-  margin-bottom: 0.4rem;
-  font-weight: 600;
-}
+    /* --- News Details --- */
+    .news-date {
+      font-size: 0.9rem;
+      color: #a55b00;
+      margin-bottom: 0.3rem;
+      font-weight: 600;
+    }
 
-.news-title {
-  font-size: 1.2rem;
-  color: #333;
-  margin-bottom: 0.4rem;
-  font-weight: 600;
-}
+    .news-title {
+      font-size: 1.3rem;
+      color: #333;
+      margin-bottom: 0.5rem;
+      font-weight: 600;
+    }
 
-.news-tags {
-  margin-top: 0.6rem;
-}
+    .news-tags {
+      margin: 0.5rem 0;
+    }
 
-.news-tag {
-  display: inline-block;
-  background: linear-gradient(135deg, #e66e00, #d64545);
-  color: white;
-  font-size: 0.8rem;
-  font-weight: 500;
-  border-radius: 20px;
-  padding: 3px 10px;
-  margin-right: 5px;
-  margin-top: 4px;
-}
+    .news-tag {
+      display: inline-block;
+      background: linear-gradient(135deg, #e66e00, #d64545);
+      color: white;
+      font-size: 0.8rem;
+      font-weight: 500;
+      border-radius: 20px;
+      padding: 3px 10px;
+      margin-right: 5px;
+      margin-top: 4px;
+    }
 
-/* --- Media Queries --- */
-@media (max-width: 600px) {
-  .news-header h1 {
-    font-size: 2rem;
-  }
+    .news-content {
+      margin-top: 0.6rem;
+      font-size: 1rem;
+      line-height: 1.5;
+      color: #555;
+    }
 
-  .news-container {
-    width: 95%;
-    padding: 0 1rem;
-  }
+    /* --- Responsive --- */
+    @media (max-width: 900px) {
+      .news-container {
+        padding: 0 1rem;
+      }
 
-  .news-card {
-    width: 95%;
-    padding: 1rem;
-    margin: 1rem 0;
-  }
-}
+      .news-card {
+        padding: 1rem 1.2rem;
+      }
+    }
 
+    @media (max-width: 600px) {
+      .news-header h1 {
+        font-size: 2rem;
+      }
+
+      .news-card {
+        padding: 0.9rem 1rem;
+        font-size: 0.95rem;
+      }
+
+      .news-title {
+        font-size: 1.1rem;
+      }
+
+      .news-date {
+        font-size: 0.85rem;
+      }
+    }
   </style>
 </head>
 
@@ -141,8 +164,11 @@ title: News
         if (!res.ok) throw new Error('Failed to load news.yml');
         const yamlText = await res.text();
 
-        // Parse YAML → JS Object
         const newsData = jsyaml.load(yamlText);
+
+        // Sort news by date descending (newest first)
+        newsData.sort((a, b) => new Date(b.date) - new Date(a.date));
+
         const container = document.getElementById('newsContainer');
         container.innerHTML = '';
 
@@ -150,19 +176,19 @@ title: News
           const card = document.createElement('div');
           card.className = 'news-card';
           card.innerHTML = `
-            <div class="news-date">${item.date}</div>
-            <div class="news-title">${item.title}</div>
-            ${item.tags && item.tags.length
+        <div class="news-date">${item.date}</div>
+        <div class="news-title">${item.title}</div>
+        ${item.tags && item.tags.length
               ? `<div class="news-tags">${item.tags
                 .map(tag => `<span class="news-tag">${tag}</span>`)
                 .join('')}</div>`
               : ''
             }
-            ${item.content
+        ${item.content
               ? `<div class="news-content"><p>${item.content}</p></div>`
               : ''
             }
-          `;
+      `;
           container.appendChild(card);
         });
 
