@@ -69,9 +69,29 @@ Through this work, the lab bridges traditional scholarship and modern computatio
 | Header           | /_includes/header.html | Header is universal for all pages, styles in global.css    |
 | Footer           | /_inlcudes/footer.html | Footer is universal for all pages, styles in global.css    |
 
-## The Editor Software
+# The Editor Software
 
 ### Instructions:
 1. Make sure you are in root directory.
 2. Make sure you have python installed.
-3. Run ```python Editing ``` 
+3. Run 
+   ```bash
+   python Editing/editor.py
+   ```
+
+   ![Editor](images/readme/editor.png)
+
+   You can do three additions from here:
+   - Add a member
+   - Add a news
+   - Add a publication
+
+⚠️ **Warning:** Check all the changes in CHANGE BLOCK before doing commit and push. Since all changes are made through git, only verified personals can make the changes. 
+
+
+## Add Member
+![Editor](images/readme/add-member.png)
+## Add News
+![Editor](images/readme/add-news.png)
+## Add Publications
+![Editor](images/readme/add-publication.png)
