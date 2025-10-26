@@ -95,3 +95,14 @@ Through this work, the lab bridges traditional scholarship and modern computatio
 ![Editor](images/readme/add-news.png)
 ## Add Publications
 ![Editor](images/readme/add-publication.png)
+
+
+## Notice
+
+⚠️ **Confidential:** This repository is private and intended for internal use by Sanganaka lab members only. Content, code, and data must **not** be distributed, copied, or shared outside the lab without explicit permission.
+
+---
+
+## Acknowledgements
+
+We gratefully acknowledge the contributions of all members of the Sanganaka lab and the support of IIT Kharagpur in advancing computational research in Sanskrit.
