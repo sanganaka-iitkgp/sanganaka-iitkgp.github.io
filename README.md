@@ -67,14 +67,19 @@ Through this work, the lab bridges traditional scholarship and modern computatio
 | Teams Home Page  | /team.html         | data stored in data/team.yml                               |
 | Member Page      | /_layouts/member.html  | individual member data stored as markdown files in /_team/ |
 | Header           | /_includes/header.html | Header is universal for all pages, styles in global.css    |
-| Footer           | /_inlcudes/footer.html | Footer is universal for all pages, styles in global.css    |
+| Footer           | /_includes/footer.html | Footer is universal for all pages, styles in global.css    |
 
 # The Editor Software
 
-### Instructions:
-1. Make sure you are in root directory.
-2. Make sure you have python installed.
-3. Run 
+The **Editing Tool** (`Editing/editor.py`) provides a graphical interface to add members, news items, and publications to the website. It automates structured edits in the relevant data files.
+
+### Requirements
+- Python 3.8 or later
+- Write access to this repository (GitHub collaborator)
+
+### How to Use
+1. Clone this repository and ensure you are in the root directory.
+2. Run:
    ```bash
    python Editing/editor.py
    ```
@@ -86,16 +91,23 @@ Through this work, the lab bridges traditional scholarship and modern computatio
    - Add a news
    - Add a publication
 
-⚠️ **Warning:** Check all the changes in CHANGE BLOCK before doing commit and push. Since all changes are made through git, only verified personals can make the changes. 
+⚠️ **Warning:** Check all the changes in **CHANGE BLOCK IN MAIN SCREEN OF EDITOR** before doing commit and push.
 
+**Note:** Only authorized lab members (GitHub collaborators) can modify the site content.
+The update tool simply automates structured edits in local data files.
+No network access, credentials, or remote execution are involved.
 
 ## Add Member
 ![Editor](images/readme/add-member.png)
+This will assist you to create a new member markdown file and automatically push it into the teams folder as required. 
+
 ## Add News
 ![Editor](images/readme/add-news.png)
+This will assist you to add a news in the news datasource. 
+
 ## Add Publications
 ![Editor](images/readme/add-publication.png)
-
+This will assist you to add a new publication details in the publication dataset.
 
 ## Notice
 
