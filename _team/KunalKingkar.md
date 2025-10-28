@@ -7,6 +7,8 @@ role: MS Student
 permalink: 'team/kunalKingkar'
 social:
     linkedin: https://www.linkedin.com/in/kunal-kingkar-653337246
+    github: https://github.com/kunalkk13
+    google-scholar: https://scholar.google.com/citations?user=o5mUZ0sAAAAJ&hl=en
 education:
   - |
     **Indian Institute of Technology, Kharagpur**
