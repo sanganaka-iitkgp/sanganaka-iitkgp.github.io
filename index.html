@@ -16,7 +16,6 @@ title: Home
   <link rel="stylesheet" href="../css/global.css">
   <style>
     /* --- Carousel --- */
-    /* --- Carousel --- */
     .carousel {
       position: relative;
       max-width: 650px;
@@ -37,10 +36,9 @@ title: Home
 
     .slides img {
       width: 100%;
-      max-width: 100%;
-      /* Ensures images scale properly */
-      height: auto;
-      /* Maintain aspect ratio */
+      height: 100%;
+      object-fit: contain;
+      /* Ensures images fit inside without cropping */
       display: block;
       border-radius: 12px;
     }
@@ -54,9 +52,7 @@ title: Home
       width: 100%;
       text-align: center;
       box-sizing: border-box;
-      /* Ensures padding doesn't cause overflow */
       word-wrap: break-word;
-      /* Ensures text wraps properly in smaller viewports */
     }
 
     .dots-container {
