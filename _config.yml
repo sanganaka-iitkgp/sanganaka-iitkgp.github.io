@@ -3,6 +3,8 @@ title: Sanganaka Lab
 collections:
   team:
     output: true
+plugins:
+  - jekyll-sitemap
 
 # optional: global permalink for members
 defaults:
