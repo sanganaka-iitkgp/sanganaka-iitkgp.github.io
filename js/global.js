@@ -11,30 +11,25 @@ function initNavbar() {
 }
 document.addEventListener("DOMContentLoaded", initNavbar);
 
+let index = 0;
+const slides = document.querySelectorAll(".slide");
 
-
-// Carousel Logic
-let slideIndex = 0;
-showSlides();
-
-function showSlides() {
-  let i;
-  const slides = document.getElementsByClassName("slides");
-  const dots = document.getElementsByClassName("dot");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1;}
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active-dot", "");
-  }
-  slides[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].className += " active-dot";
-  setTimeout(showSlides, 10000); // Change slide every 10 sec
+function showSlide(i) {
+  slides.forEach(s => s.classList.remove("active"));
+  slides[i].classList.add("active");
 }
 
-function currentSlide(n) {
-  slideIndex = n-1;
-  showSlides();
-}
+document.querySelector(".next").onclick = () => {
+  index = (index + 1) % slides.length;
+  showSlide(index);
+};
+
+document.querySelector(".prev").onclick = () => {
+  index = (index - 1 + slides.length) % slides.length;
+  showSlide(index);
+};
+
+setInterval(() => {
+  index = (index + 1) % slides.length;
+  showSlide(index);
+}, 5000);
