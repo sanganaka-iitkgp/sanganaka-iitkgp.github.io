@@ -10,6 +10,16 @@ social:
     github: https://www.github.com/shivrajanand
     website: https://www.shivrajanand.com
 education:
+
+  - |
+     **PHD in Computer Science and Engineering**  
+     **Indian Institute of Technology, Kharagpur** 
+     - Jan 2026 - present
+     - CGPA: 8.45/10 (1st sem) 
+     - Working under supervision of Prof. Pawan Goyal
+     - Broad area of research: NLP 
+     - Exploring Computational Sanskrit, Natural Language Processing, and Efficient AI Inference
+
   - |
      **B.Tech in Computer Science and Engineering**  
      **B.P.M.C.E., Madhepura** 
@@ -17,7 +27,7 @@ education:
      - CGPA: 8.80/10  
      - Branch Topper in all academic years  
      - GATE'24 CS Qualified, GATE'25 CS and DA Qualified  
-     - Relevant Subjects: ENGG. Maths, DSA, OS, COA, DL, DAA, AI, DBMS, TOC, CD, ML, Cryptography, Python, C, C++, Java"
+     - Relevant Subjects: ENGG. Maths, DSA, OS, COA, DL, DAA, AI, DBMS, TOC, CD, ML, Cryptography, Python, C, C++, Java
 
   - |
     **Higher Secondary Certificate (12th Grade)**   

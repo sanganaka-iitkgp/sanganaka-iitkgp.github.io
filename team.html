@@ -75,12 +75,54 @@ permalink: /team/
 
   /* ====== Card Design ====== */
   .team-member-card {
+    position: relative;
+    overflow: hidden;
+
     background: #fff;
-    border-radius: 12px;
+    border-radius: 14px;
     padding: 1.5rem;
     text-align: center;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
-    transition: all 0.3s ease;
+
+    border: 1px solid rgba(242, 185, 92, 0.25);
+
+    box-shadow:
+      0 6px 18px rgba(0, 0, 0, 0.07),
+      0 0 18px rgba(230, 110, 0, 0.06);
+
+    transition:
+      transform 0.3s ease,
+      box-shadow 0.3s ease,
+      border-color 0.3s ease;
+  }
+
+  .team-member-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    pointer-events: none;
+
+    background: linear-gradient(135deg,
+        rgba(255, 255, 255, 0.35) 0%,
+        transparent 35%,
+        transparent 100%);
+
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .team-member-card:hover {
+    transform: translateY(-8px) scale(1.02);
+
+    border-color: rgba(230, 110, 0, 0.45);
+
+    box-shadow:
+      0 14px 35px rgba(0, 0, 0, 0.12),
+      0 0 28px rgba(230, 110, 0, 0.18);
+  }
+
+  .team-member-card:hover::before {
+    opacity: 1;
   }
 
   .team-member-card:hover {
@@ -207,15 +249,15 @@ permalink: /team/
   {% if members.size > 0 %}
   <div class="team-section">
     <h2>
-  {% case category %}
-    {% when "professor" %}Professor
-    {% when "alumni" %}Alumni
-    {% when "scholar" %}Research Scholars
-    {% when "student" %}Students
-    {% when "staff" %}Staff
-    {% when "exstaff" %}Former Staff
-  {% endcase %}
-</h2>
+      {% case category %}
+      {% when "professor" %}Professor
+      {% when "alumni" %}Alumni
+      {% when "scholar" %}Research Scholars
+      {% when "student" %}Students
+      {% when "staff" %}Staff
+      {% when "exstaff" %}Former Staff
+      {% endcase %}
+    </h2>
     <div class="row">
       {% for member in members %}
       <div class="col-md-3">

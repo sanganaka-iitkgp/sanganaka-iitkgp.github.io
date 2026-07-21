@@ -9,7 +9,7 @@ social:
     linkedin: https://www.linkedin.com/in/nived-krishna
     google-scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AO4B3jvlG1Ja_cmHiC_9V9R9AW2lszO1rVWAj_CPeAKQYN4hCQWSc8qWn3HBG1Z3G1r361vXQzFZSyAiK1fALQ&user=Easyh1EAAAAJ
     github: https://github.com/NivedKris
-    website: n/a
+    website: https://nivedkris.github.io/portfolio/
     orcid: n/a
 education:
   - |

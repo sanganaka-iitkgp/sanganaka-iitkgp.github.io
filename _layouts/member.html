@@ -4,104 +4,195 @@ layout: default
 
 <style>
     .member-page {
-        max-width: 900px;
+        max-width: 950px;
         margin: 3rem auto;
         padding: 2rem 1rem;
         background: #fefcf6;
     }
 
+    /* ===== Header ===== */
+
     .member-header {
         display: flex;
-        flex-wrap: wrap;
         align-items: center;
-        gap: 2rem;
-        margin-bottom: 2rem;
+        gap: 2.5rem;
+        background: #fff;
+        padding: 2rem;
+        border-radius: 16px;
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+        margin-bottom: 2.5rem;
     }
 
     .member-header img {
-        width: 180px;
-        height: 180px;
+        width: 200px;
+        height: 200px;
         object-fit: cover;
         border-radius: 50%;
-        border: 3px solid #f2b95c;
+        border: 4px solid #f2b95c;
+        box-shadow: 0 8px 22px rgba(0, 0, 0, .15);
+        flex-shrink: 0;
     }
 
-    .member-header .member-info h1 {
+    .member-info {
+        flex: 1;
+    }
+
+    .member-info h1 {
+        margin: 0 0 0.8rem;
         font-size: 2.5rem;
         color: #e66e00;
-        margin-bottom: 0.5rem;
+        line-height: 1.2;
     }
 
-    .member-header .member-info p.role {
-        font-size: 1.2rem;
-        color: #555;
-        margin-bottom: 1rem;
-    }
-
-    .member-header .social-links {
-        display: flex;
-        gap: 1rem;
-        margin-top: 0.5rem;
-    }
-
-    .member-header .social-links a {
+    .role {
+        display: inline-block;
+        margin-bottom: 1.2rem;
+        padding: 8px 18px;
+        background: #fff4e8;
         color: #e66e00;
-        font-size: 1.4rem;
-        transition: color 0.2s ease;
+        border: 1px solid #f2b95c;
+        border-radius: 999px;
+        font-size: 1rem;
+        font-weight: 600;
     }
 
-    .member-header .social-links a:hover {
-        color: #f2b95c;
+    /* ===== Social Icons ===== */
+
+    .social-links {
+        display: flex;
+        gap: 0.8rem;
+        flex-wrap: wrap;
     }
+
+    .social-links a {
+        width: 42px;
+        height: 42px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        background: #fff4e8;
+        color: #e66e00;
+        font-size: 1.2rem;
+        transition: all 0.25s ease;
+    }
+
+    .social-links a:hover {
+        background: #e66e00;
+        color: white;
+        transform: translateY(-2px);
+    }
+
+    /* ===== Biography ===== */
 
     .member-bio {
-        font-size: 1rem;
+        background: white;
+        padding: 2rem;
+        margin-bottom: 2.5rem;
+
+        border-left: 5px solid #e66e00;
+        border-radius: 12px;
+
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+
+        font-size: 1.05rem;
+        line-height: 1.9;
         color: #333;
-        line-height: 1.6;
-        margin-bottom: 2rem;
     }
 
-    .member-education h2 {
-        font-size: 1.5rem;
+    .member-bio h2 {
+        font-size: 1.7rem;
         color: #e66e00;
-        margin-bottom: 1rem;
+        margin: 0 0 1.2rem;
+        padding-bottom: 0.3rem;
         border-bottom: 2px solid #f2b95c;
         display: inline-block;
-        padding-bottom: 0.2rem;
     }
 
-    .member-education ul {
-        list-style: disc inside;
-        padding-left: 0;
+    .member-bio p:first-child {
+        margin-top: 0;
     }
 
-    .member-education ul li {
-        margin-bottom: 1rem;
+    .member-bio p:last-child {
+        margin-bottom: 0;
     }
+
+    /* ===== Education ===== */
+
+    .member-education h2 {
+        font-size: 1.7rem;
+        color: #e66e00;
+        margin-bottom: 1.2rem;
+        border-bottom: 2px solid #f2b95c;
+        display: inline-block;
+        padding-bottom: 0.3rem;
+    }
+
+    .education-card {
+        background: white;
+        padding: 2rem;
+        border-left: 5px solid #e66e00;
+        border-radius: 12px;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+    }
+
+    .education-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .education-list li {
+        padding: 0.45rem 0;
+        line-height: 1.5;
+        border-bottom: 1px solid #f3e2c0;
+    }
+
+    .education-list li:last-child {
+        border-bottom: none;
+    }
+
+    .education-list li p {
+        margin: 0;
+    }
+
+    /* ===== Links ===== */
 
     a {
         text-decoration: none;
         color: inherit;
     }
 
-    .member-education ul.education-list {
-        list-style: none;
-        /* remove bullets */
-        padding-left: 0;
-        margin: 0;
-    }
+    /* ===== Responsive ===== */
 
-    .member-education ul.education-list li {
-        padding: 1rem 0;
-        border-bottom: 1px solid #f2b95c;
-        /* stylish separator */
-        font-size: 1rem;
-        color: #333;
-    }
+    @media (max-width: 768px) {
 
-    .member-education ul.education-list li:last-child {
-        border-bottom: none;
-        /* remove line after last item */
+        .member-page {
+            padding: 1.5rem 1rem;
+        }
+
+        .member-header {
+            flex-direction: column;
+            text-align: center;
+            padding: 1.8rem;
+        }
+
+        .member-header img {
+            width: 170px;
+            height: 170px;
+        }
+
+        .member-info h1 {
+            font-size: 2rem;
+        }
+
+        .social-links {
+            justify-content: center;
+        }
+
+        .member-bio {
+            padding: 1.5rem;
+        }
     }
 </style>
 
@@ -135,17 +226,21 @@ layout: default
     </div>
 
     <div class="member-bio">
+        <h2>Biography</h2>
         {{ content | markdownify }}
     </div>
 
     {% if page.education %}
     <div class="member-education">
         <h2>Education</h2>
-        <ul class="education-list">
-            {% for edu in page.education %}
-            <li>{{ edu | markdownify }}</li>
-            {% endfor %}
-        </ul>
+
+        <div class="education-card">
+            <ul class="education-list">
+                {% for edu in page.education %}
+                <li>{{ edu | markdownify }}</li>
+                {% endfor %}
+            </ul>
+        </div>
     </div>
     {% endif %}
 </div>
