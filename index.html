@@ -19,7 +19,8 @@ title: Home
   <style>
     .slider {
       position: relative;
-      max-width: 700px;
+      max-width: 1000px;
+      width: 90%;
       margin: auto;
       overflow: hidden;
     }
@@ -27,22 +28,52 @@ title: Home
     .slide {
       display: none;
       text-align: center;
+      position: relative;
+      height: 550px;
+      /* Same height for every slide */
+      background: transparent;
+      /* Or #fefcf6 to match your page */
     }
 
     .slide.active {
-      display: block;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
 
     .slide img {
-      width: 100%;
-      border-radius: 10px;
+      max-width: 100%;
+      max-height: 100%;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+      display: block;
     }
 
     .caption {
-      background: rgba(0, 0, 0, 0.6);
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
+      right: 20px;
+
+      padding: 16px 20px;
+
+      background: rgba(0, 0, 0, 0.72);
       color: white;
-      padding: 10px;
+
+      border-left: 6px solid #e66e00;
+      border-radius: 10px;
+
       font-size: 1rem;
+      line-height: 1.6;
+      text-align: left;
+
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+    }
+
+    .slide:hover .caption {
+      border-left-color: #ff9800;
+      transition: border-color 0.3s ease;
     }
 
     .prev,
@@ -50,19 +81,25 @@ title: Home
       position: absolute;
       top: 50%;
       transform: translateY(-50%);
-      background: rgba(0, 0, 0, 0.5);
-      color: white;
+
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
       border: none;
-      padding: 10px 15px;
+      background: rgba(0, 0, 0, .45);
+      backdrop-filter: blur(5px);
+      color: white;
+      font-size: 22px;
       cursor: pointer;
+      z-index: 10;
     }
 
     .prev {
-      left: 10px;
+      left: 15px;
     }
 
     .next {
-      right: 10px;
+      right: 15px;
     }
 
 
@@ -92,19 +129,16 @@ title: Home
 <body>
 
   <section class="slider">
+    <div class="slide">
+      <img src="images/slider/1.png" alt="Sanganaka Lab logo">
+
+    </div>
 
     <div class="slide active">
       <img src="images/slider/1.jpeg" alt="Mimamsa Workshop">
       <div class="caption">
         Sanganaka Group members with Prof. Pawan Goyal at the National Workshop on
         “Contribution of Mimamsa to Discourse Analysis,” Melkote, 16–17 November 2025.
-      </div>
-    </div>
-
-    <div class="slide">
-      <img src="images/slider/1.png" alt="Sanganaka Lab logo">
-      <div class="caption">
-        Sanganaka Lab logo representing the integration of Sanskrit knowledge and AI.
       </div>
     </div>
 
@@ -157,9 +191,38 @@ title: Home
       </div>
     </div>
 
+    <div class="slide">
+      <img src="images/slider/9.jpeg" alt="ISCLS Program chair">
+      <div class="caption">
+        <strong>Prof. Pawan Goyal</strong> at the First Summer School on Sanskrit Computational Linguistics...
+      </div>
+    </div>
+
+    <div class="slide">
+      <img src="images/slider/10.jpeg" alt="ISCLS Program chair">
+      <div class="caption">
+        PHD scholar J Manoj Balaji at First Summer School on Sanskrit Computational Linguistics June 22-27, 2026.
+        Organized by Centre for Digital Humanities (CDH), MAHE Bengaluru in association with Indian Institute of
+        Technology-Kharagpur (IIT-KGP)
+      </div>
+    </div>
+
+
     <button class="prev">&#10094;</button>
     <button class="next">&#10095;</button>
 
+    <div class="dots">
+      <span class="dot active"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+    </div>
   </section>
 
   <!-- About Section -->

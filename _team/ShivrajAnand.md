@@ -1,9 +1,9 @@
 ---
 layout: member
-category: staff
+category: scholar
 title: Shivraj Anand
 image: shivrajanand.jpg
-role: Language Analyst
+role: PhD Student
 permalink: 'team/shivrajanand'
 social:
     linkedin: https://www.linkedin.com/in/shivrajanand
