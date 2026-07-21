@@ -25,11 +25,10 @@ education:
     **CGPA:** 9.27/10
 
   - |
-    **Federal Institute of Science and Technology (FISAT), Hormis Nagar, Mookannoor**  
-    *B.Tech in [your field, if applicable]*  
+    **Federal Institute of Science and Technology (FISAT), Hormis Nagar, Mookannoor. P.O., Angamaly, Ernakulam -683 577**  
+    *B.Tech, Computer Science*  
     2008 – 2012  
-    **Grade:** First Class with Distinction  
-    Affiliated to Mahatma Gandhi University, Kottayam
+    **GRADE** First Class with Distinction
 
 
 
